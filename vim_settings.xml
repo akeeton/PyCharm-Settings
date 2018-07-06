@@ -3,8 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1530918080656">
-        <mark key="[" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1530919859814">
+        <mark key="[" line="0" column="14" />
       </file>
       <file name="/Python Console" timestamp="1530916422758">
         <mark key="[" line="0" column="0" />
@@ -17,50 +17,53 @@
         <mark key="]" line="20" column="11" />
         <mark key="." line="20" column="11" />
       </file>
-      <file name="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0001-two-sum.py" timestamp="1530917911458">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="^" line="10" column="32" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0001-two-sum.py" timestamp="1530919810771">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+        <mark key="^" line="30" column="31" />
       </file>
     </filemarks>
     <jumps />
     <registers>
-      <register name="1" type="2">
+      <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="2">
+      <register name="-" type="4">
+        <text>]</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAjIGZvciBpLCBtIGluIGVudW1lcmF0ZShudW1zKToKICAgICAgICAjICAgICBmb3IgaiwgbiBpbiBlbnVtZXJhdGUobnVtcyk6CiAgICAgICAgIyAgICAgICAgIGlmIGkgIT0gaiBhbmQgbSArIG4gPT0gdGFyZ2V0OgogICAgICAgICMgICAgICAgICAgICAgcmV0dXJuIFtpLCBqXQo=</text>
+      </register>
+      <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50KHNvbHV0aW9uLnR3b1N1bShbMiwgNywgMTEsIDE1XSkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgaSwgIGluIGVudW1lcmF0ZShkKToK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgIGluIG51Ogo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aWYgX19uYW1lX18gPT0gJ21haW4nCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBmb3IgaSwgIGluIGVudW1lcmF0ZSgpOgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
-      </register>
-      <register name="-" type="4">
-        <text>True</text>
       </register>
     </registers>
     <search>
