@@ -3,17 +3,17 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0003-longest-substring-without-repeating-characters.py" timestamp="1530995622049">
-        <mark key="'" line="35" column="16" />
-        <mark key="[" line="32" column="33" />
-        <mark key="]" line="32" column="37" />
-        <mark key="." line="32" column="37" />
-        <mark key="^" line="32" column="37" />
+      <file name="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0003-longest-substring-without-repeating-characters.py" timestamp="1530997250313">
+        <mark key="'" line="26" column="23" />
+        <mark key="[" line="44" column="20" />
+        <mark key="]" line="44" column="20" />
+        <mark key="." line="44" column="20" />
+        <mark key="^" line="47" column="14" />
       </file>
-      <file name="/Dummy.txt" timestamp="1530994907995">
+      <file name="/Dummy.txt" timestamp="1530997008531">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1530995624238">
+      <file name="/Python Console" timestamp="1530996786096">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1530994814156">
@@ -62,39 +62,44 @@
       <jump line="52" column="0" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0002-add-two-numbers.py" />
       <jump line="55" column="0" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0002-add-two-numbers.py" />
       <jump line="33" column="65" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0002-add-two-numbers.py" />
-      <jump line="10" column="21" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0003-longest-substring-without-repeating-characters.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0003-longest-substring-without-repeating-characters.py" />
       <jump line="6" column="0" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0003-longest-substring-without-repeating-characters.py" />
       <jump line="14" column="0" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0003-longest-substring-without-repeating-characters.py" />
-      <jump line="17" column="0" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0003-longest-substring-without-repeating-characters.py" />
       <jump line="23" column="0" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0003-longest-substring-without-repeating-characters.py" />
-      <jump line="13" column="8" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0003-longest-substring-without-repeating-characters.py" />
       <jump line="27" column="74" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0003-longest-substring-without-repeating-characters.py" />
       <jump line="18" column="12" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0003-longest-substring-without-repeating-characters.py" />
       <jump line="19" column="27" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0003-longest-substring-without-repeating-characters.py" />
       <jump line="35" column="16" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0003-longest-substring-without-repeating-characters.py" />
+      <jump line="10" column="8" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0003-longest-substring-without-repeating-characters.py" />
+      <jump line="13" column="0" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0003-longest-substring-without-repeating-characters.py" />
+      <jump line="22" column="28" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0003-longest-substring-without-repeating-characters.py" />
+      <jump line="17" column="28" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0003-longest-substring-without-repeating-characters.py" />
+      <jump line="16" column="16" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0003-longest-substring-without-repeating-characters.py" />
+      <jump line="11" column="30" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0003-longest-substring-without-repeating-characters.py" />
+      <jump line="24" column="16" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0003-longest-substring-without-repeating-characters.py" />
+      <jump line="26" column="23" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0003-longest-substring-without-repeating-characters.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>substring</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>substring</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjaGFyX2NvdW50c19zdWJ0cmFjdGVkXD4=</text>
+        <text encoding="base64">XDxzdWJzdHJpbmdcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAjIGNoYXJfY291bnRzX2Jhc2UgPSBDb3VudGVyKGNoYXJzKQo=</text>
+      <register name="0" type="4">
+        <text>chars_minus_left_and_right</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjaGFyc19sZW4gPSBsZW4oY2hhcnMpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2hhcnNfbGVuID0gbGVuKGNoYXJzKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNoYXJzX21pbnVzX2xlZnRfYW5kX3JpZ2h0ID0gY2hhcnNfbWludXNfbGVmdF9hbmRfcmlnaHRbOi0xXQo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -103,25 +108,25 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBicmVhawo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2hhcl9jb3VudHMgKz0gY2hhcl9jb3VudHNfc3VidHJhY3RlZF9mcm9tX3JpZ2h0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIGxlbihjaGFyc19taW51c19sZWZ0X2FuZF9yaWdodCkgPD0gbWF4X2xlbjoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2hhcl9jb3VudHMgPSBjaGFyX2NvdW50c19iYXNlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBmb3IgcmlnaHRfaW5kZXggaW4gcmV2ZXJzZWQocmFuZ2UobGVuKGNoYXJzX21pbnVzX2xlZnQpKSk6CiAgICAgICAgICAgICMgICAgIGNoYXJzX21pbnVzX2xlZnRfYW5kX3JpZ2h0ID0gY2hhcnNfbWludXNfbGVmdFs6cmlnaHRfaW5kZXggKyAxXQogICAgICAgICAgICAjIGZvciBqIGluIHJldmVyc2VkKHJhbmdlKGxlbihjaGFyc19taW51c19sZWZ0KSkpOgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBjaGFyX2NvdW50cyA9IGNoYXJfY291bnRzX2Jhc2UuY29weSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNoYXJfY291bnRzW2NoYXJzX21pbnVzX2xlZnRbMF1dIC09IDEKICAgICAgICAgICAgICAgIGNoYXJzX21pbnVzX2xlZnQgPSBjaGFyc19taW51c19sZWZ0WzE6XQoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjIHByaW50KCJNYXggc3Vic3RyaW5nOiAne30nIi5mb3JtYXQobWF4X2xlbl9zdWJzdHJpbmcpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgaSA+IDA6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjaGFyX2NvdW50c19zdWJ0cmFjdGVkXD4=</last-search>
+      <last-search encoding="base64">XDxzdWJzdHJpbmdcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjaGFyX2NvdW50c19zdWJ0cmFjdGVkXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxzdWJzdHJpbmdcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -132,6 +137,8 @@
         <entry encoding="base64">XDxpXD4=</entry>
         <entry encoding="base64">XDxjaGFyX2NvdW50c1w+</entry>
         <entry encoding="base64">XDxjaGFyX2NvdW50c19zdWJ0cmFjdGVkXD4=</entry>
+        <entry encoding="base64">XDxjaGFyc1w+</entry>
+        <entry encoding="base64">XDxzdWJzdHJpbmdcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
