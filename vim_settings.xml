@@ -3,10 +3,17 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1530919859814">
-        <mark key="[" line="0" column="14" />
+      <file name="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0003-longest-substring-without-repeating-characters.py" timestamp="1530987930239">
+        <mark key="'" line="27" column="0" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="29" column="33" />
       </file>
-      <file name="/Python Console" timestamp="1530916422758">
+      <file name="/Dummy.txt" timestamp="1530987933270">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Python Console" timestamp="1530984558404">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1530916362435">
@@ -23,23 +30,66 @@
         <mark key="." line="31" column="0" />
         <mark key="^" line="30" column="31" />
       </file>
+      <file name="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0002-add-two-numbers.py" timestamp="1530983709594">
+        <mark key="'" line="33" column="65" />
+        <mark key="[" line="62" column="18" />
+        <mark key="]" line="62" column="19" />
+        <mark key="." line="62" column="19" />
+        <mark key="^" line="33" column="65" />
+      </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="40" column="25" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0002-add-two-numbers.py" />
+      <jump line="51" column="11" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0002-add-two-numbers.py" />
+      <jump line="49" column="0" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0002-add-two-numbers.py" />
+      <jump line="47" column="43" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0002-add-two-numbers.py" />
+      <jump line="20" column="16" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0002-add-two-numbers.py" />
+      <jump line="21" column="16" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0002-add-two-numbers.py" />
+      <jump line="22" column="14" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0002-add-two-numbers.py" />
+      <jump line="30" column="29" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0002-add-two-numbers.py" />
+      <jump line="31" column="42" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0002-add-two-numbers.py" />
+      <jump line="17" column="8" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0002-add-two-numbers.py" />
+      <jump line="24" column="0" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0002-add-two-numbers.py" />
+      <jump line="29" column="0" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0002-add-two-numbers.py" />
+      <jump line="32" column="0" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0002-add-two-numbers.py" />
+      <jump line="36" column="0" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0002-add-two-numbers.py" />
+      <jump line="44" column="0" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0002-add-two-numbers.py" />
+      <jump line="57" column="0" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0002-add-two-numbers.py" />
+      <jump line="71" column="0" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0002-add-two-numbers.py" />
+      <jump line="66" column="0" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0002-add-two-numbers.py" />
+      <jump line="61" column="0" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0002-add-two-numbers.py" />
+      <jump line="58" column="0" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0002-add-two-numbers.py" />
+      <jump line="52" column="0" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0002-add-two-numbers.py" />
+      <jump line="55" column="0" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0002-add-two-numbers.py" />
+      <jump line="33" column="65" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0002-add-two-numbers.py" />
+      <jump line="13" column="30" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0003-longest-substring-without-repeating-characters.py" />
+      <jump line="10" column="21" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0003-longest-substring-without-repeating-characters.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0003-longest-substring-without-repeating-characters.py" />
+      <jump line="6" column="0" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0003-longest-substring-without-repeating-characters.py" />
+      <jump line="14" column="0" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0003-longest-substring-without-repeating-characters.py" />
+      <jump line="17" column="0" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0003-longest-substring-without-repeating-characters.py" />
+      <jump line="19" column="0" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0003-longest-substring-without-repeating-characters.py" />
+      <jump line="23" column="0" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0003-longest-substring-without-repeating-characters.py" />
+      <jump line="27" column="0" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0003-longest-substring-without-repeating-characters.py" />
+    </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIGNoYXJzID0gbGlzdChzKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>1</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxpXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAjIGZvciBpLCBtIGluIGVudW1lcmF0ZShudW1zKToKICAgICAgICAjICAgICBmb3IgaiwgbiBpbiBlbnVtZXJhdGUobnVtcyk6CiAgICAgICAgIyAgICAgICAgIGlmIGkgIT0gaiBhbmQgbSArIG4gPT0gdGFyZ2V0OgogICAgICAgICMgICAgICAgICAgICAgcmV0dXJuIFtpLCBqXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQobGlzdCgoY2hhcl9jb3VudFsxXSA+IDEgZm9yIGNoYXJfY291bnQgaW4gY2hhcl9jb3VudHMuaXRlbXMoKSkpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIGNoYXJzID0gbGlzdChzKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtYXhfbGVuX2NoYXJzCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -48,30 +98,37 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgaSwgIGluIGVudW1lcmF0ZShkKToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBwcmludChzdWJzdHJpbmcpCiAgICAgICAgICAgICMgcHJpbnQoY2hhcl9jb3VudHMpCiAgICAgICAgICAgICMgcHJpbnQobGlzdChjaGFyX2NvdW50X2R1cF9nZW4pKQoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgIGluIG51Ogo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBsZW4oc3Vic3RyaW5nKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCFhbnkoY2hhcl9jb3VudCkpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQobGlzdCgoY2hhcl9jb3VudFsxXSA+IDEgZm9yIGNoYXJfY291bnQgaW4gY2hhcl9jb3VudHMuaXRlbXMoKSkpKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgaSwgIGluIGVudW1lcmF0ZSgpOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search encoding="base64">XDxpXD4=</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxpXD4=</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry encoding="base64">XDxyZXN1bHRfaGlnaGVzdF9kaWdpdFw+</entry>
+        <entry encoding="base64">OiA=</entry>
+        <entry encoding="base64">XDxpXD4=</entry>
+      </history-search>
       <history-cmd>
         <entry>w</entry>
       </history-cmd>
@@ -90,6 +147,27 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Y</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
