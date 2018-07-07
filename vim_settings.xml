@@ -3,17 +3,17 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0003-longest-substring-without-repeating-characters.py" timestamp="1530994901075">
-        <mark key="'" line="19" column="16" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="39" column="35" />
-        <mark key="." line="39" column="35" />
-        <mark key="^" line="39" column="35" />
+      <file name="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0003-longest-substring-without-repeating-characters.py" timestamp="1530995622049">
+        <mark key="'" line="35" column="16" />
+        <mark key="[" line="32" column="33" />
+        <mark key="]" line="32" column="37" />
+        <mark key="." line="32" column="37" />
+        <mark key="^" line="32" column="37" />
       </file>
       <file name="/Dummy.txt" timestamp="1530994907995">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1530994819764">
+      <file name="/Python Console" timestamp="1530995624238">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1530994814156">
@@ -70,56 +70,58 @@
       <jump line="23" column="0" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0003-longest-substring-without-repeating-characters.py" />
       <jump line="13" column="8" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0003-longest-substring-without-repeating-characters.py" />
       <jump line="27" column="74" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0003-longest-substring-without-repeating-characters.py" />
-      <jump line="19" column="16" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0003-longest-substring-without-repeating-characters.py" />
+      <jump line="18" column="12" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0003-longest-substring-without-repeating-characters.py" />
+      <jump line="19" column="27" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0003-longest-substring-without-repeating-characters.py" />
+      <jump line="35" column="16" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0003-longest-substring-without-repeating-characters.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>copyright()</text>
+        <text>substring</text>
       </register>
       <register name="-" type="4">
-        <text>copyright()</text>
+        <text>substring</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjaGFyX2NvdW50c1w+</text>
+        <text encoding="base64">XDxjaGFyX2NvdW50c19zdWJ0cmFjdGVkXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQobGlzdCgoY2hhcl9jb3VudFsxXSA+IDEgZm9yIGNoYXJfY291bnQgaW4gY2hhcl9jb3VudHMuaXRlbXMoKSkpKQo=</text>
+        <text encoding="base64">ICAgICAgICAjIGNoYXJfY291bnRzX2Jhc2UgPSBDb3VudGVyKGNoYXJzKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAgICAgY2hhcnMgPSBzCiAgICAgICAgY2hhcl9jb3VudHMgPSBDb3VudGVyKGNoYXJzKQo=</text>
+        <text encoding="base64">ICAgICAgICBjaGFyc19sZW4gPSBsZW4oY2hhcnMpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2hhcnNfbGVuID0gbGVuKGNoYXJzKQo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb21wZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBicmVhawo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2hhcl9jb3VudHMgKz0gY2hhcl9jb3VudHNfc3VidHJhY3RlZF9mcm9tX3JpZ2h0Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjaGFycyA9IHMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2hhcl9jb3VudHMgPSBjaGFyX2NvdW50c19iYXNlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNoYXJfY291bnRzID0ge30KCiAgICAgICAgICAgICAgICBmb3IgY2hhciBpbiBzdWJzdHJpbmc6CiAgICAgICAgICAgICAgICAgICAgY2hhcl9jb3VudHNbY2hhcl0gPSAxIGlmIGNoYXIgbm90IGluIGNoYXJfY291bnRzIGVsc2UgY2hhcl9jb3VudHNbY2hhcl0gKyAxCgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBjaGFyX2NvdW50cyA9IGNoYXJfY291bnRzX2Jhc2UuY29weSgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChsZW4oc3Vic3RyaW5nKSkK</text>
+        <text encoding="base64">ICAgICAgICAjIHByaW50KCJNYXggc3Vic3RyaW5nOiAne30nIi5mb3JtYXQobWF4X2xlbl9zdWJzdHJpbmcpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjaGFyX2NvdW50c1w+</last-search>
+      <last-search encoding="base64">XDxjaGFyX2NvdW50c19zdWJ0cmFjdGVkXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjaGFyX2NvdW50c1w+</last-pattern>
+      <last-pattern encoding="base64">XDxjaGFyX2NvdW50c19zdWJ0cmFjdGVkXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -129,6 +131,7 @@
         <entry encoding="base64">OiA=</entry>
         <entry encoding="base64">XDxpXD4=</entry>
         <entry encoding="base64">XDxjaGFyX2NvdW50c1w+</entry>
+        <entry encoding="base64">XDxjaGFyX2NvdW50c19zdWJ0cmFjdGVkXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
