@@ -10,10 +10,19 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1531075270392">
+      <file name="/Dummy.txt" timestamp="1531093150504">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1531074950995">
+      <file name="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0021-merge-two-sorted-lists.py" timestamp="1531093620325">
+        <mark key="'" line="13" column="0" />
+        <mark key="[" line="36" column="8" />
+        <mark key="]" line="36" column="18" />
+        <mark key="." line="36" column="18" />
+        <mark key="^" line="36" column="18" />
+      </file>
+      <file name="/Python Console" timestamp="1531092582479">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1530994814156">
@@ -104,46 +113,48 @@
       <jump line="2" column="10" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0003-longest-substring-without-repeating-characters.py" />
       <jump line="42" column="3" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0003-longest-substring-without-repeating-characters.py" />
       <jump line="3" column="14" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0003-longest-substring-without-repeating-characters.py" />
+      <jump line="54" column="0" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0021-merge-two-sorted-lists.py" />
+      <jump line="13" column="0" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0021-merge-two-sorted-lists.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>list_result</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>list_result</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaW50KHNvbC5pc1BhbGluZHJvbWUoLTEyMSkpCg==</text>
+        <text encoding="base64">ICAgIHByaW50KGxpc3RfYSkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHhfcmV2ZXJzZWQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVsc2U6Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIDAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbCA9IG1pbihub2RlXykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB4c2lnbiAqIHhfcmV2ZXJzZWQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBJTlRfTUFYID0gMioqMzEgLSAxCiAgICAgICAgSU5UX01JTiA9IC0yKiozMQoKICAgICAgICBpZiB4IDwgSU5UX01JTiBvciB4ID4gSU5UX01BWDoKICAgICAgICAgICAgcmV0dXJuIDAKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDk2NDYzMjQzNTEK</text>
+        <text encoding="base64">ICAgICAgICBzID0gInt9IC0+IHt9Ii5mb3JtYXQoc2VsZi52YWwsIHN0cihzZWxmLm5leHQpKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBmb3Igbm9kZSBpbiAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
