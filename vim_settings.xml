@@ -10,7 +10,7 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1531096376561">
+      <file name="/Dummy.txt" timestamp="1531122012504">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -22,7 +22,7 @@
         <mark key="." line="69" column="0" />
         <mark key="^" line="45" column="35" />
       </file>
-      <file name="/Python Console" timestamp="1531095983919">
+      <file name="/Python Console" timestamp="1531121895280">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1530994814156">
@@ -52,11 +52,12 @@
         <mark key="." line="37" column="28" />
         <mark key="^" line="37" column="28" />
       </file>
-      <file name="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0035-search-insert-position.py" timestamp="1531120527287">
-        <mark key="[" line="26" column="44" />
-        <mark key="]" line="25" column="46" />
-        <mark key="^" line="25" column="46" />
-        <mark key="." line="26" column="44" />
+      <file name="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0035-search-insert-position.py" timestamp="1531122010228">
+        <mark key="'" line="24" column="55" />
+        <mark key="[" line="24" column="77" />
+        <mark key="]" line="24" column="77" />
+        <mark key="." line="24" column="77" />
+        <mark key="^" line="18" column="47" />
       </file>
       <file name="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0002-add-two-numbers.py" timestamp="1530983709594">
         <mark key="'" line="33" column="65" />
@@ -148,55 +149,61 @@
       <jump line="52" column="0" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0020-valid-parentheses.py" />
       <jump line="44" column="0" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0020-valid-parentheses.py" />
       <jump line="41" column="0" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0020-valid-parentheses.py" />
+      <jump line="2" column="40" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0035-search-insert-position.py" />
+      <jump line="3" column="11" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0035-search-insert-position.py" />
+      <jump line="4" column="12" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0035-search-insert-position.py" />
+      <jump line="5" column="12" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0035-search-insert-position.py" />
+      <jump line="6" column="12" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0035-search-insert-position.py" />
+      <jump line="20" column="55" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0035-search-insert-position.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1, 3, 5, 6], 5))</text>
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>1, 3, 5, 6], 5))</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx2YWxcPg==</text>
+        <text encoding="base64">XDxwYXJhbVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaW50KHNvbC5zZWFyY2hJbnNlcnQoWzEsIDMsIDUsIDZdLCA1KSkK</text>
+        <text encoding="base64">ICAgIHByaW50KHNvbC5zZWFyY2hJbnNlcnQoWzEsIDNdLCA0KSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGluZGV4X2xlZnQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRyeToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFNvbHV0aW9uLmJpbmFyeV9zZWFyY2gobnVtcywgKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBlbHNlOgogICAgICAgICAgICByZXR1cm4gU29sdXRpb24uYmluYXJ5X3NlYXJjaChudW1zLCBpbmRleF9taWQgKyAxLCBsZW5ndGggLSAoaW5kZXhfbWlkIC0gaW5kZXhfbGVmdCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhcmVuX2xhc3Rfc2Vlbgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRyeToK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlcXVlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx2YWxcPg==</last-search>
+      <last-search encoding="base64">XDxwYXJhbVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx2YWxcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxwYXJhbVw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -215,6 +222,8 @@
         <entry encoding="base64">XDxzXD4=</entry>
         <entry encoding="base64">XDxsaXN0X2FcPg==</entry>
         <entry encoding="base64">XDx2YWxcPg==</entry>
+        <entry encoding="base64">XDxsZW5ndGhcPg==</entry>
+        <entry encoding="base64">XDxwYXJhbVw+</entry>
       </history-search>
       <history-cmd>
         <entry>we</entry>
