@@ -15,7 +15,7 @@
         <mark key="." line="69" column="0" />
         <mark key="^" line="45" column="35" />
       </file>
-      <file name="/Python Console" timestamp="1531204948622">
+      <file name="/Python Console" timestamp="1531206505214">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1530994814156">
@@ -66,12 +66,12 @@
         <mark key="]" line="20" column="11" />
         <mark key="." line="20" column="11" />
       </file>
-      <file name="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0053-maximum-subarray.py" timestamp="1531205785842">
+      <file name="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0053-maximum-subarray.py" timestamp="1531206962123">
         <mark key="'" line="116" column="4" />
-        <mark key="[" line="77" column="45" />
-        <mark key="]" line="77" column="46" />
-        <mark key="." line="77" column="46" />
-        <mark key="^" line="77" column="46" />
+        <mark key="[" line="44" column="108" />
+        <mark key="]" line="45" column="9" />
+        <mark key="." line="45" column="9" />
+        <mark key="^" line="45" column="9" />
       </file>
       <file name="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0007-reverse-integer.py" timestamp="1531075260017">
         <mark key="[" line="41" column="0" />
@@ -172,7 +172,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>[+, -, +, -, + -, +].</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
@@ -180,8 +180,8 @@
       <register name="/" type="4">
         <text>]</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaW50KHNvbC5tYXhTdWJBcnJheShbLTIsIDEsIC0zLCA0LCAtMSwgMiwgMSwgLTUsIDRdKSkK</text>
+      <register name="0" type="4">
+        <text>[+, -, +, -, + -, +].</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAjIGlmIG51bV9taWQgPiAwOgogICAgICAgICMgICAgIHN1bV9tYXhfbGVmdCArPSBudW1fbWlkCiAgICAgICAgIyAgICAgc3VtX21heF9yaWdodCArPSBudW1fbWlkCgogICAgICAgICMgc3VtX21heCA9IG1heChzdW1fYWxsLCBzdW1fbWF4X2xlZnQsIHN1bV9tYXhfcmlnaHQpCiAgICAgICAgIyByZXR1cm4gc3VtX21heAoKICAgICAgICAjIGlmIHN1bV9tYXhfbGVmdCA+IDAgYW5kIHN1bV9tYXhfcmlnaHQgPiAwOgogICAgICAgICMgICAgIHJldHVybiBzdW1fbWF4X2xlZnQgKyBzdW1fbWF4X3JpZ2h0CiAgICAgICAgIyBlbGlmIHN1bV9tYXhfbGVmdCA8PSAwIGFuZCBzdW1fbWF4X3JpZ2h0IDw9IDA6CiAgICAgICAgIyAgICAgcmV0dXJuIG1heChzdW1fbWF4X2xlZnQsIHN1bV9tYXhfcmlnaHQpCiAgICAgICAgIyBlbGlmIHN1bV9tYXhfbGVmdCA8PSAwIDwgc3VtX21heF9yaWdodDoKICAgICAgICAjICAgICByZXR1cm4gc3VtX21heF9yaWdodAogICAgICAgICMgZWxpZiBzdW1fbWF4X2xlZnQgPiAwID49IHN1bV9tYXhfcmlnaHQ6CiAgICAgICAgIyAgICAgcmV0dXJuIHN1bV9tYXhfbGVmdAo=</text>
