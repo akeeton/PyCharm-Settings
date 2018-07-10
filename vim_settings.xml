@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1531205808217">
+      <file name="/Dummy.txt" timestamp="1531223932100">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -15,7 +15,7 @@
         <mark key="." line="69" column="0" />
         <mark key="^" line="45" column="35" />
       </file>
-      <file name="/Python Console" timestamp="1531206505214">
+      <file name="/Python Console" timestamp="1531222572206">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1530994814156">
@@ -66,12 +66,19 @@
         <mark key="]" line="20" column="11" />
         <mark key="." line="20" column="11" />
       </file>
-      <file name="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0053-maximum-subarray.py" timestamp="1531206962123">
-        <mark key="'" line="116" column="4" />
-        <mark key="[" line="44" column="108" />
-        <mark key="]" line="45" column="9" />
-        <mark key="." line="45" column="9" />
-        <mark key="^" line="45" column="9" />
+      <file name="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0053-maximum-subarray.py" timestamp="1531222985518">
+        <mark key="'" line="10" column="55" />
+        <mark key="[" line="14" column="50" />
+        <mark key="]" line="14" column="50" />
+        <mark key="." line="14" column="50" />
+        <mark key="^" line="14" column="50" />
+      </file>
+      <file name="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0070-climbing-stairs.py" timestamp="1531223930388">
+        <mark key="'" line="12" column="32" />
+        <mark key="[" line="8" column="39" />
+        <mark key="]" line="8" column="39" />
+        <mark key="." line="8" column="39" />
+        <mark key="^" line="8" column="39" />
       </file>
       <file name="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0007-reverse-integer.py" timestamp="1531075260017">
         <mark key="[" line="41" column="0" />
@@ -163,61 +170,68 @@
       <jump line="6" column="12" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0035-search-insert-position.py" />
       <jump line="20" column="55" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0035-search-insert-position.py" />
       <jump line="13" column="9" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0053-maximum-subarray.py" />
-      <jump line="0" column="16" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0053-maximum-subarray.py" />
       <jump line="16" column="0" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0053-maximum-subarray.py" />
       <jump line="22" column="0" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0053-maximum-subarray.py" />
       <jump line="61" column="9" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0053-maximum-subarray.py" />
       <jump line="15" column="23" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0053-maximum-subarray.py" />
       <jump line="116" column="4" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0053-maximum-subarray.py" />
+      <jump line="73" column="22" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0053-maximum-subarray.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0053-maximum-subarray.py" />
+      <jump line="5" column="32" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0053-maximum-subarray.py" />
+      <jump line="8" column="43" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0053-maximum-subarray.py" />
+      <jump line="10" column="55" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0053-maximum-subarray.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0070-climbing-stairs.py" />
+      <jump line="15" column="43" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0070-climbing-stairs.py" />
+      <jump line="12" column="32" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0070-climbing-stairs.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>[+, -, +, -, + -, +].</text>
+        <text>None</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>None</text>
       </register>
       <register name="/" type="4">
-        <text>]</text>
+        <text encoding="base64">XDx3YXlzX3RvX2NsaW1iX3N0ZXBzXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>[+, -, +, -, + -, +].</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICB3YXlzX3RvX2NsaW1iX3R3b19mZXdlcl9zdGVwcyA9IE5vbmUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjIGlmIG51bV9taWQgPiAwOgogICAgICAgICMgICAgIHN1bV9tYXhfbGVmdCArPSBudW1fbWlkCiAgICAgICAgIyAgICAgc3VtX21heF9yaWdodCArPSBudW1fbWlkCgogICAgICAgICMgc3VtX21heCA9IG1heChzdW1fYWxsLCBzdW1fbWF4X2xlZnQsIHN1bV9tYXhfcmlnaHQpCiAgICAgICAgIyByZXR1cm4gc3VtX21heAoKICAgICAgICAjIGlmIHN1bV9tYXhfbGVmdCA+IDAgYW5kIHN1bV9tYXhfcmlnaHQgPiAwOgogICAgICAgICMgICAgIHJldHVybiBzdW1fbWF4X2xlZnQgKyBzdW1fbWF4X3JpZ2h0CiAgICAgICAgIyBlbGlmIHN1bV9tYXhfbGVmdCA8PSAwIGFuZCBzdW1fbWF4X3JpZ2h0IDw9IDA6CiAgICAgICAgIyAgICAgcmV0dXJuIG1heChzdW1fbWF4X2xlZnQsIHN1bV9tYXhfcmlnaHQpCiAgICAgICAgIyBlbGlmIHN1bV9tYXhfbGVmdCA8PSAwIDwgc3VtX21heF9yaWdodDoKICAgICAgICAjICAgICByZXR1cm4gc3VtX21heF9yaWdodAogICAgICAgICMgZWxpZiBzdW1fbWF4X2xlZnQgPiAwID49IHN1bV9tYXhfcmlnaHQ6CiAgICAgICAgIyAgICAgcmV0dXJuIHN1bV9tYXhfbGVmdAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2F5c3RkZGQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyBjbGFzcyBTb2x1dGlvbjoKIyAgICAgZGVmIG1heFN1YkFycmF5KHNlbGYsIG51bXMpOgojICAgICAgICAgIiIiCiMgICAgICAgICA6dHlwZSBudW1zOiBMaXN0W2ludF0KIyAgICAgICAgIDpydHlwZTogaW50CiMgICAgICAgICAiIiIKIwojICAgICAgICAgc3VtX21heCA9IE5vbmUKIyAgICAgICAgIGZvciBpbmRleF9sZWZ0IGluIHJhbmdlKGxlbihudW1zKSk6CiMgICAgICAgICAgICAgc3VtX3BhcnRpYWwgPSAwCiMKIyAgICAgICAgICAgICBmb3IgaW5kZXhfcmlnaHQgaW4gcmFuZ2UoaW5kZXhfbGVmdCwgbGVuKG51bXMpKToKIyAgICAgICAgICAgICAgICAgc3VtX3BhcnRpYWwgKz0gbnVtc1tpbmRleF9yaWdodF0KIyAgICAgICAgICAgICAgICAgc3VtX21heCA9IHN1bV9wYXJ0aWFsIGlmIHN1bV9tYXggaXMgTm9uZSBlbHNlIG1heChzdW1fbWF4LCBzdW1fcGFydGlhbCkKIwojICAgICAgICAgcmV0dXJuIHN1bV9tYXgK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA6cGFyYW0gbnVtczogCiAgICAgICAgOnBhcmFtIGluZGV4X2xlZnQ6IAogICAgICAgIDpwYXJhbSBpbmRleF9yaWdodDogCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBuID09IDE6CiAgICAgICAgICAgIHJldHVybiAxCiAgICAgICAgZWxpZiBuID09IDI6CiAgICAgICAgICAgIHJldHVybiAyCiAgICAgICAgZWxzZToKICAgICAgICAgICAgcmV0dXJuIHNlbGYuY2xpbWJTdGFpcnMobiAtIDIpICsgc2VsZi5jbGltYlN0YWlycyhuIC0gMSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBudW1fbWlkID0gbnVtc1tpbmRleF9taWRdCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>]</last-search>
+      <last-search encoding="base64">XDx3YXlzX3RvX2NsaW1iX3N0ZXBzXD4=</last-search>
       <last-offset />
-      <last-pattern>]</last-pattern>
+      <last-pattern encoding="base64">XDx3YXlzX3RvX2NsaW1iX3N0ZXBzXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -239,6 +253,8 @@
         <entry encoding="base64">XDxsZW5ndGhcPg==</entry>
         <entry encoding="base64">XDxwYXJhbVw+</entry>
         <entry>]</entry>
+        <entry encoding="base64">XDxudW1cPg==</entry>
+        <entry encoding="base64">XDx3YXlzX3RvX2NsaW1iX3N0ZXBzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>we</entry>
