@@ -22,7 +22,7 @@
         <mark key="^" line="60" column="38" />
         <mark key="." line="62" column="39" />
       </file>
-      <file name="/Python Console" timestamp="1531225421272">
+      <file name="/Python Console" timestamp="1531251960197">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1530994814156">
@@ -68,6 +68,13 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0101-symmetric-tree.py" timestamp="1531252619453">
+        <mark key="'" line="29" column="12" />
+        <mark key="[" line="35" column="11" />
+        <mark key="]" line="37" column="51" />
+        <mark key="." line="37" column="51" />
+        <mark key="^" line="37" column="51" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/tutorial/Car.py" timestamp="1530916419463">
         <mark key="[" line="20" column="11" />
         <mark key="]" line="20" column="11" />
@@ -95,13 +102,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="0" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0002-add-two-numbers.py" />
-      <jump line="57" column="0" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0002-add-two-numbers.py" />
-      <jump line="71" column="0" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0002-add-two-numbers.py" />
-      <jump line="66" column="0" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0002-add-two-numbers.py" />
-      <jump line="61" column="0" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0002-add-two-numbers.py" />
-      <jump line="58" column="0" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0002-add-two-numbers.py" />
-      <jump line="52" column="0" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0002-add-two-numbers.py" />
       <jump line="55" column="0" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0002-add-two-numbers.py" />
       <jump line="33" column="65" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0002-add-two-numbers.py" />
       <jump line="14" column="0" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0003-longest-substring-without-repeating-characters.py" />
@@ -195,65 +195,69 @@
       <jump line="49" column="37" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0100-same-tree.py" />
       <jump line="54" column="37" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0100-same-tree.py" />
       <jump line="19" column="48" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0100-same-tree.py" />
+      <jump line="20" column="18" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0101-symmetric-tree.py" />
+      <jump line="9" column="8" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0101-symmetric-tree.py" />
+      <jump line="8" column="61" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0101-symmetric-tree.py" />
+      <jump line="17" column="11" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0101-symmetric-tree.py" />
+      <jump line="19" column="13" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0101-symmetric-tree.py" />
+      <jump line="23" column="11" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0101-symmetric-tree.py" />
+      <jump line="30" column="12" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0101-symmetric-tree.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50KHNvbC5pc1NhbWVUcmVlKHRyZWVfYiwgdHJlZV9jKSkK</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpbl9vcmRlcl90cmF2ZXJzYWxcPg==</text>
+        <text>root\.right</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaW50KHNvbC5pc1NhbWVUcmVlKHRyZWVfYiwgdHJlZV9jKSkK</text>
+        <text encoding="base64">ICAgICAgICBsZWZ0X3N0ciA9ICJOb25lIiBpZiBzZWxmLmxlZnQgaXMgTm9uZSBlbHNlIHN0cihzZWxmLmxlZnQpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KFNvbHV0aW9uLnByZV9vcmRlcl90cmF2ZXJzYWwodHJlZV9hKSkK</text>
+        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRyZWVfYi5yaWdodCA9IFRyZWVOb2RlKDMpCg==</text>
+        <text encoding="base64">ICAgICAgICBlbGlmIHRyZWVfYSBpcyBub3QgTm9uZSBhbmQgdHJlZV9iIGlzIE5vbmU6CiAgICAgICAgICAgIHJldHVybiBGYWxzZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFRydWUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gaW5fb3JkZXJfdHJhdmVyc2FsX3JlYyh0cmVlX3Jvb3QpCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiB0cmVlIGlzIE5vbmU6Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAiIiIKICAgICAgICA6dHlwZSB0cmVlX3Jvb3Q6IFRyZWVOb2RlCiAgICAgICAgOnJ0eXBlOiBMaXN0CiAgICAgICAgIiIiCg==</text>
+        <text encoding="base64">CiAgICAgICAgaWYgcm9vdCBpcyBOb25lOgogICAgICAgICAgICByZXR1cm4gVHJ1ZQogICAgICAgIGVsaWYgcm9vdC5sZWZ0IGlzIE5vbmUgYW5kIHJvb3QucmlnaHQgaXMgTm9uZToKICAgICAgICAgICAgcmV0dXJuIFRydWUKICAgICAgICBlbGlmIHJvb3QubGVmdCBpcyBOb25lIGFuZCByb290LnJpZ2h0IGlzIG5vdCBOb25lOgogICAgICAgICAgICByZXR1cm4gRmFsc2UKICAgICAgICBlbGlmIHJvb3QubGVmdCBpcyBub3QgTm9uZSBhbmQgcm9vdC5yaWdodCBpcyBOb25lOgogICAgICAgICAgICByZXR1cm4gRmFsc2UKICAgICAgICBlbHNlOgogICAgICAgICAgICByZXR1cm4gcm9vdC5sZWZ0LnZhbCA9PSByb290LnJpZ2h0LnZhbCBhbmQgc2VsZi5pc1N5bW1ldHJpYyhyb290LmxlZnQpIGFuZCBzZWxmLmlzU3ltbWV0cmljKHJvb3QucmlnaHQpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkZWYgaW5fb3JkZXJfdHJhdmVyc2FsX3JlYyh0cmVlX25vZGUpOgo=</text>
+        <text encoding="base64">ICAgICAgICBsZWZ0X3N0cmluZyA9IAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRyZWVfYS5sZWZ0LnJpZ2h0ID0gVHJlZU5vZGUoNCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpbl9vcmRlcl90cmF2ZXJzYWxcPg==</last-search>
+      <last-search>root\.right</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpbl9vcmRlcl90cmF2ZXJzYWxcPg==</last-pattern>
+      <last-pattern>root\.right</last-pattern>
+      <last-replace>tree_b</last-replace>
+      <last-substitute>root\.right</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjaGFyX2NvdW50c1w+</entry>
-        <entry encoding="base64">XDxjaGFyX2NvdW50c19zdWJ0cmFjdGVkXD4=</entry>
-        <entry encoding="base64">XDxjaGFyc1w+</entry>
-        <entry encoding="base64">XDxzdWJzdHJpbmdcPg==</entry>
-        <entry encoding="base64">XDxjaGFyc19taW51c19sZWZ0XD4=</entry>
         <entry encoding="base64">XDxjaGFyX2NvdW50c19zdWJ0cmFjdGVkX2Zyb21fcmlnaHRcPg==</entry>
         <entry encoding="base64">XDxjaGFyc19taW51c19sZWZ0X2FuZF9yaWdodFw+</entry>
         <entry encoding="base64">XDxzXD4=</entry>
@@ -264,14 +268,22 @@
         <entry>]</entry>
         <entry encoding="base64">XDxudW1cPg==</entry>
         <entry encoding="base64">XDx3YXlzX3RvX2NsaW1iX3N0ZXBzXD4=</entry>
-        <entry>left</entry>
         <entry encoding="base64">XDx0cmVlX2JcPg==</entry>
         <entry encoding="base64">XDx0cmVlX2FcPg==</entry>
         <entry encoding="base64">XDx0cmVlX2RcPg==</entry>
         <entry encoding="base64">XDxpbl9vcmRlcl90cmF2ZXJzYWxcPg==</entry>
+        <entry encoding="base64">XDxsZWZ0X3N0clw+</entry>
+        <entry>left</entry>
+        <entry encoding="base64">XDxyb290XD4=</entry>
+        <entry>root.left</entry>
+        <entry>root\.left</entry>
+        <entry>root\.right</entry>
       </history-search>
       <history-cmd>
         <entry>we</entry>
+        <entry encoding="base64">JzwsJz5yb290LmxlZnQvdHJlZV9h</entry>
+        <entry encoding="base64">JzwsJz5zL3Jvb3RcLmxlZnQvdHJlZV9hL2c=</entry>
+        <entry encoding="base64">JzwsJz5zL3Jvb3RcLnJpZ2h0L3RyZWVfYi9n</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
