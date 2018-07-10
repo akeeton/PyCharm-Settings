@@ -15,7 +15,7 @@
         <mark key="." line="69" column="0" />
         <mark key="^" line="45" column="35" />
       </file>
-      <file name="/Python Console" timestamp="1531201006881">
+      <file name="/Python Console" timestamp="1531202343876">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1530994814156">
@@ -66,12 +66,12 @@
         <mark key="]" line="20" column="11" />
         <mark key="." line="20" column="11" />
       </file>
-      <file name="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0053-maximum-subarray.py" timestamp="1531201823712">
-        <mark key="'" line="64" column="9" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="^" line="31" column="17" />
-        <mark key="." line="21" column="0" />
+      <file name="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0053-maximum-subarray.py" timestamp="1531203066000">
+        <mark key="'" line="73" column="9" />
+        <mark key="[" line="23" column="35" />
+        <mark key="]" line="23" column="40" />
+        <mark key="^" line="23" column="40" />
+        <mark key="." line="23" column="40" />
       </file>
       <file name="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0007-reverse-integer.py" timestamp="1531075260017">
         <mark key="[" line="41" column="0" />
@@ -169,11 +169,11 @@
       <jump line="61" column="9" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0053-maximum-subarray.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAjIGlmIG51bXNbaW5kZXhfbGVmdF0gPCAwOgogICAgICAgICMgICAgIGluZGV4X2xlZnQgKz0gMQogICAgICAgICMKICAgICAgICAjIGlmIG51bXNbaW5kZXhfcmlnaHRdIDwgMDoKICAgICAgICAjICAgICBpbmRleF9yaWdodCAtPSAwCgo=</text>
+      <register name="&quot;" type="4">
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>num_mid</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>]</text>
@@ -182,31 +182,31 @@
         <text encoding="base64">ICAgIHByaW50KHNvbC5tYXhTdWJBcnJheShbLTIsIDEsIC0zLCA0LCAtMSwgMiwgMSwgLTUsIDRdKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjIGlmIG51bXNbaW5kZXhfbGVmdF0gPCAwOgogICAgICAgICMgICAgIGluZGV4X2xlZnQgKz0gMQogICAgICAgICMKICAgICAgICAjIGlmIG51bXNbaW5kZXhfcmlnaHRdIDwgMDoKICAgICAgICAjICAgICBpbmRleF9yaWdodCAtPSAwCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjIGlmIG51bXNbaW5kZXhfbGVmdF0gPCAwOgogICAgICAgICMgICAgIGluZGV4X2xlZnQgKz0gMQogICAgICAgICMKICAgICAgICAjIGlmIG51bXNbaW5kZXhfcmlnaHRdIDwgMDoKICAgICAgICAjICAgICBpbmRleF9yaWdodCAtPSAwCgogICAgICAgIGxlbmd0aCA9IGluZGV4X3JpZ2h0IC0gaW5kZXhfbGVmdCArIDEK</text>
+        <text encoding="base64">ICAgICAgICBudW1fbWlkID0gbnVtc1tpbmRleF9taWRdCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQobGVuZ3RoID4gMCkK</text>
+        <text encoding="base64">ICAgICAgICBpZiBudW1fbWlkCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBudW1fbWlkID0gbnVtc1tpbmRleF9taWRdCiAgICAgICAgIyBpZiBudW1fbWlkCgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsZW5ndGggPSBpbmRleF9yaWdodCAtIGluZGV4X2xlZnQgKyAxCgogICAgICAgIGlmIGxlbmd0aCA9PSAxOgogICAgICAgICAgICByZXR1cm4gbnVtc1tpbmRleF9sZWZ0XQoK</text>
+        <text encoding="base64">ICAgICAgICAjIGlmIG51bXNbaW5kZXhfbGVmdF0gPCAwOgogICAgICAgICMgICAgIGluZGV4X2xlZnQgKz0gMQogICAgICAgICMKICAgICAgICAjIGlmIG51bXNbaW5kZXhfcmlnaHRdIDwgMDoKICAgICAgICAjICAgICBpbmRleF9yaWdodCAtPSAwCgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIGlmIG51bXNbaW5kZXhfbGVmdF0gPCAwOgogICAgICAgICMgICAgIGluZGV4X2xlZnQgKz0gMQogICAgICAgICMKICAgICAgICAjIGlmIG51bXNbaW5kZXhfcmlnaHRdIDwgMDoKICAgICAgICAjICAgICBpbmRleF9yaWdodCAtPSAwCgogICAgICAgIGxlbmd0aCA9IGluZGV4X3JpZ2h0IC0gaW5kZXhfbGVmdCArIDEK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQobGVuZ3RoID4gMCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
