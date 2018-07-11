@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1531226051689">
+      <file name="/Dummy.txt" timestamp="1531324731229">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -47,6 +47,11 @@
         <mark key="." line="37" column="28" />
         <mark key="^" line="37" column="28" />
       </file>
+      <file name="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0121-best-time-to-buy-and-sell-stock.py" timestamp="1531324729965">
+        <mark key="]" line="18" column="3" />
+        <mark key="^" line="18" column="3" />
+        <mark key="." line="18" column="3" />
+      </file>
       <file name="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0035-search-insert-position.py" timestamp="1531122010228">
         <mark key="'" line="24" column="55" />
         <mark key="[" line="24" column="77" />
@@ -68,17 +73,22 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0101-symmetric-tree.py" timestamp="1531252619453">
+      <file name="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0101-symmetric-tree.py" timestamp="1531323662008">
         <mark key="'" line="29" column="12" />
-        <mark key="[" line="35" column="11" />
-        <mark key="]" line="37" column="51" />
-        <mark key="." line="37" column="51" />
-        <mark key="^" line="37" column="51" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/tutorial/Car.py" timestamp="1530916419463">
         <mark key="[" line="20" column="11" />
         <mark key="]" line="20" column="11" />
         <mark key="." line="20" column="11" />
+      </file>
+      <file name="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0104-maximum-depth-of-binary-tree.py" timestamp="1531324213711">
+        <mark key="[" line="35" column="17" />
+        <mark key="]" line="36" column="28" />
+        <mark key="^" line="36" column="28" />
+        <mark key="." line="36" column="28" />
       </file>
       <file name="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0053-maximum-subarray.py" timestamp="1531222985518">
         <mark key="'" line="10" column="55" />
@@ -205,43 +215,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>tree_b</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>tree_b</text>
       </register>
       <register name="/" type="4">
         <text>root\.right</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBsZWZ0X3N0ciA9ICJOb25lIiBpZiBzZWxmLmxlZnQgaXMgTm9uZSBlbHNlIHN0cihzZWxmLmxlZnQpCg==</text>
+        <text encoding="base64">ICAgIGRlZiBfX3N0cl9fKHNlbGYpOgogICAgICAgIGxlZnRfc3RyID0gIiIgaWYgc2VsZi5sZWZ0IGlzIE5vbmUgZWxzZSBzdHIoc2VsZi5sZWZ0KQogICAgICAgIHJpZ2h0X3N0ciA9ICIiIGlmIHNlbGYucmlnaHQgaXMgTm9uZSBlbHNlIHN0cihzZWxmLnJpZ2h0KQoKICAgICAgICByZXR1cm4gInt9IHt9IHt9Ii5mb3JtYXQobGVmdF9zdHIsIHNlbGYudmFsLCByaWdodF9zdHIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBlbGlmIHRyZWVfYSBpcyBub3QgTm9uZSBhbmQgdHJlZV9iIGlzIE5vbmU6CiAgICAgICAgICAgIHJldHVybiBGYWxzZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFRydWUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiB0cmVlIGlzIE5vbmU6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICAgICAgaWYgcm9vdCBpcyBOb25lOgogICAgICAgICAgICByZXR1cm4gVHJ1ZQogICAgICAgIGVsaWYgcm9vdC5sZWZ0IGlzIE5vbmUgYW5kIHJvb3QucmlnaHQgaXMgTm9uZToKICAgICAgICAgICAgcmV0dXJuIFRydWUKICAgICAgICBlbGlmIHJvb3QubGVmdCBpcyBOb25lIGFuZCByb290LnJpZ2h0IGlzIG5vdCBOb25lOgogICAgICAgICAgICByZXR1cm4gRmFsc2UKICAgICAgICBlbGlmIHJvb3QubGVmdCBpcyBub3QgTm9uZSBhbmQgcm9vdC5yaWdodCBpcyBOb25lOgogICAgICAgICAgICByZXR1cm4gRmFsc2UKICAgICAgICBlbHNlOgogICAgICAgICAgICByZXR1cm4gcm9vdC5sZWZ0LnZhbCA9PSByb290LnJpZ2h0LnZhbCBhbmQgc2VsZi5pc1N5bW1ldHJpYyhyb290LmxlZnQpIGFuZCBzZWxmLmlzU3ltbWV0cmljKHJvb3QucmlnaHQpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBsZWZ0X3N0cmluZyA9IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRyZWVfYS5sZWZ0LnJpZ2h0ID0gVHJlZU5vZGUoNCkK</text>
+        <text encoding="base64">ZGVmIGlmIF9fbmFtZV9fID09ICdfX21haW5fXyc6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
