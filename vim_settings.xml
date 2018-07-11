@@ -47,10 +47,11 @@
         <mark key="." line="37" column="28" />
         <mark key="^" line="37" column="28" />
       </file>
-      <file name="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0121-best-time-to-buy-and-sell-stock.py" timestamp="1531324729965">
-        <mark key="]" line="18" column="3" />
-        <mark key="^" line="18" column="3" />
-        <mark key="." line="18" column="3" />
+      <file name="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0121-best-time-to-buy-and-sell-stock.py" timestamp="1531325641388">
+        <mark key="[" line="29" column="31" />
+        <mark key="]" line="29" column="32" />
+        <mark key="^" line="28" column="80925" />
+        <mark key="." line="29" column="32" />
       </file>
       <file name="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0035-search-insert-position.py" timestamp="1531122010228">
         <mark key="'" line="24" column="55" />
@@ -214,8 +215,8 @@
       <jump line="30" column="12" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0101-symmetric-tree.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>tree_b</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHByaW50KHNvbC5tYXhQcm9maXQocHJpY2VzX2IpKQo=</text>
       </register>
       <register name="-" type="4">
         <text>tree_b</text>
@@ -224,7 +225,7 @@
         <text>root\.right</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX3N0cl9fKHNlbGYpOgogICAgICAgIGxlZnRfc3RyID0gIiIgaWYgc2VsZi5sZWZ0IGlzIE5vbmUgZWxzZSBzdHIoc2VsZi5sZWZ0KQogICAgICAgIHJpZ2h0X3N0ciA9ICIiIGlmIHNlbGYucmlnaHQgaXMgTm9uZSBlbHNlIHN0cihzZWxmLnJpZ2h0KQoKICAgICAgICByZXR1cm4gInt9IHt9IHt9Ii5mb3JtYXQobGVmdF9zdHIsIHNlbGYudmFsLCByaWdodF9zdHIpCg==</text>
+        <text encoding="base64">ICAgIHByaW50KHNvbC5tYXhQcm9maXQocHJpY2VzX2IpKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHBhc3MK</text>
