@@ -22,7 +22,7 @@
         <mark key="^" line="60" column="38" />
         <mark key="." line="62" column="39" />
       </file>
-      <file name="/Python Console" timestamp="1531330705905">
+      <file name="/Python Console" timestamp="1531343718888">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1530994814156">
@@ -47,12 +47,12 @@
         <mark key="." line="37" column="28" />
         <mark key="^" line="37" column="28" />
       </file>
-      <file name="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0121-best-time-to-buy-and-sell-stock.py" timestamp="1531331362921">
-        <mark key="'" line="28" column="30" />
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="^" line="33" column="19" />
-        <mark key="." line="36" column="0" />
+      <file name="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0121-best-time-to-buy-and-sell-stock.py" timestamp="1531344016542">
+        <mark key="'" line="53" column="80844" />
+        <mark key="[" line="24" column="96" />
+        <mark key="]" line="25" column="15" />
+        <mark key="." line="25" column="15" />
+        <mark key="^" line="25" column="15" />
       </file>
       <file name="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0035-search-insert-position.py" timestamp="1531122010228">
         <mark key="'" line="24" column="55" />
@@ -114,8 +114,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="74" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0003-longest-substring-without-repeating-characters.py" />
-      <jump line="18" column="12" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0003-longest-substring-without-repeating-characters.py" />
       <jump line="19" column="27" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0003-longest-substring-without-repeating-characters.py" />
       <jump line="35" column="16" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0003-longest-substring-without-repeating-characters.py" />
       <jump line="10" column="8" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0003-longest-substring-without-repeating-characters.py" />
@@ -214,46 +212,48 @@
       <jump line="27" column="16" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0121-best-time-to-buy-and-sell-stock.py" />
       <jump line="24" column="16" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0121-best-time-to-buy-and-sell-stock.py" />
       <jump line="28" column="30" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0121-best-time-to-buy-and-sell-stock.py" />
+      <jump line="43" column="56" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0121-best-time-to-buy-and-sell-stock.py" />
+      <jump line="53" column="80844" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0121-best-time-to-buy-and-sell-stock.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBlbHNlOgogICAgICAgICAgICAjICAgICBtYXhfcHJvZml0X2J1eV9wcmljZV95ZXN0ZXJkYXkgPSBtYXhfcHJvZml0X2J1eV9wcmljZV9lYWNoX2RheVtpbmRleF9kYXkgLSAxXQogICAgICAgICAgICAjICAgICBtYXhfcHJvZml0X3NlbGxfcHJpY2VfeWVzdGVyZGF5ID0gbWF4X3Byb2ZpdF9zZWxsX3ByaWNlX2VhY2hfZGF5W2luZGV4X2RheSAtIDFdCiAgICAgICAgICAgICMKICAgICAgICAgICAgIyAgICAgaWYgbWF4X3Byb2ZpdF9zZWxsX3ByaWNlX3llc3RlcmRheSBpcyBOb25lIGFuZCBtYXhfcHJvZml0X2J1eV9wcmljZV95ZXN0ZXJkYXkgPD0gMDoKICAgICAgICAgICAgIyAgICAgICAgIG1heF9wcm9maXRfc2VsbF9wcmljZV9lYWNoX2RheS5hcHBlbmQoTm9uZSkKICAgICAgICAgICAgIyAgICAgZWxzZToKICAgICAgICAgICAgIyAgICAgICAgIG1heF9wcm9maXRfc2VsbF9wcmljZV9lYWNoX2RheS5hcHBlbmQobWF4X3dpdGhfbm9uZShtYXhfcHJvZml0X3NlbGxfcHJpY2VfZWFjaF9kYXlbaW5kZXhfZGF5IC0gMV0sIHByaWNlKSkKICAgICAgICAgICAgIwogICAgICAgICAgICAjICAgICBtYXhfcHJvZml0X2J1eV9wcmljZV9lYWNoX2RheS5hcHBlbmQobWluKG1heF9wcm9maXRfYnV5X3ByaWNlX3llc3RlcmRheSwgcHJpY2UpKQoK</text>
       </register>
       <register name="-" type="4">
-        <text>max_with_none(max_profit_sell_price_each_day[index_day - 1], price))</text>
+        <text>[7, 6, 4, 3, 1]</text>
       </register>
       <register name="/" type="4">
         <text>buy</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1heF9wcm9maXRfc2VsbF9wcmljZV9lYWNoX2RheS5hcHBlbmQobWF4X3dpdGhfbm9uZShtYXhfcHJvZml0X3NlbGxfcHJpY2VfZWFjaF9kYXlbaW5kZXhfZGF5IC0gMV0sIHByaWNlKSkK</text>
+        <text encoding="base64">ICAgIHByaW50KHNvbC5tYXhQcm9maXQocHJpY2VzX2MpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBlbHNlOgogICAgICAgICAgICAjICAgICBtYXhfcHJvZml0X2J1eV9wcmljZV95ZXN0ZXJkYXkgPSBtYXhfcHJvZml0X2J1eV9wcmljZV9lYWNoX2RheVtpbmRleF9kYXkgLSAxXQogICAgICAgICAgICAjICAgICBtYXhfcHJvZml0X3NlbGxfcHJpY2VfeWVzdGVyZGF5ID0gbWF4X3Byb2ZpdF9zZWxsX3ByaWNlX2VhY2hfZGF5W2luZGV4X2RheSAtIDFdCiAgICAgICAgICAgICMKICAgICAgICAgICAgIyAgICAgaWYgbWF4X3Byb2ZpdF9zZWxsX3ByaWNlX3llc3RlcmRheSBpcyBOb25lIGFuZCBtYXhfcHJvZml0X2J1eV9wcmljZV95ZXN0ZXJkYXkgPD0gMDoKICAgICAgICAgICAgIyAgICAgICAgIG1heF9wcm9maXRfc2VsbF9wcmljZV9lYWNoX2RheS5hcHBlbmQoTm9uZSkKICAgICAgICAgICAgIyAgICAgZWxzZToKICAgICAgICAgICAgIyAgICAgICAgIG1heF9wcm9maXRfc2VsbF9wcmljZV9lYWNoX2RheS5hcHBlbmQobWF4X3dpdGhfbm9uZShtYXhfcHJvZml0X3NlbGxfcHJpY2VfZWFjaF9kYXlbaW5kZXhfZGF5IC0gMV0sIHByaWNlKSkKICAgICAgICAgICAgIwogICAgICAgICAgICAjICAgICBtYXhfcHJvZml0X2J1eV9wcmljZV9lYWNoX2RheS5hcHBlbmQobWluKG1heF9wcm9maXRfYnV5X3ByaWNlX3llc3RlcmRheSwgcHJpY2UpKQoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBkZWYgbWF4X3dpdGhfbm9uZSh4LCB5KToKICAgICAgICAgICAgaWYgeCBpcyBOb25lIGFuZCB5IGlzIE5vbmU6CiAgICAgICAgICAgICAgICByZXR1cm4gTm9uZQogICAgICAgICAgICBlbGlmIHggaXMgTm9uZSBhbmQgeSBpcyBub3QgTm9uZToKICAgICAgICAgICAgICAgIHJldHVybiB5CiAgICAgICAgICAgIGVsaWYgeCBpcyBub3QgTm9uZSBhbmQgeSBpcyBOb25lOgogICAgICAgICAgICAgICAgcmV0dXJuIHgKICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIHJldHVybiBtYXgoeCwgeSkKCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">CiAgICAgICAgIyBkZWYgbWluX3dpdGhfbm9uZSh4LCB5KToKICAgICAgICAjICAgICByZXR1cm4gTm9uZSBpZiB4IGlzIE5vbmUgb3IgeSBpcyBOb25lIGVsc2UgbWluKHgsIHkpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgbWF4X3Byb2ZpdF95ZXN0ZXJkYXkgPSBtYXhfcHJvZml0X3NlbGxfcHJpY2VfeWVzdGVyZGF5IC0gbWF4X3Byb2ZpdF9idXlfcHJpY2VfeWVzdGVyZGF5CgogICAgICAgICAgICAgICAgaWYgbWF4X3Byb2ZpdF95ZXN0ZXJkYXkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlbHNlOgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1heF9wcm9maXRfYnV5X3ByaWNlX2VhY2hfZGF5LmFwcGVuZChtaW5fd2l0aF9ub25lKG1heF9wcm9maXRfYnV5X3ByaWNlX2VhY2hfZGF5W2luZGV4X2RheSAtIDFdLCBwcmljZSkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbWF4X3Byb2ZpdF9zZWxsX3ByaWNlX2VhY2hfZGF5LmFwcGVuZChOb25lKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1heF9wcm9maXRfc2VsbF9wcmljZV9lYWNoX2RheS5hcHBlbmQobWF4X3dpdGhfbm9uZShtYXhfcHJvZml0X3NlbGxfcHJpY2VfZWFjaF9kYXlbaW5kZXhfZGF5IC0gMV0sIHByaWNlKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiBwcmljZSAtIG1heF9wcm9maXRfYnV5X3ByaWNlX3llc3RlcmRheSA8PSAwOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtYXgK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVsc2U6Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtYXhfcHJvZml0X3NlbGxfcHJpY2VfZWFjaF9kYXkuYXBwZW5kKE5vbmUpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1heHBybwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
