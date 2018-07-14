@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0226-invert-binary-tree.py" timestamp="1531595562201">
+        <mark key="[" line="27" column="4" />
+        <mark key="]" line="27" column="8" />
+        <mark key="^" line="27" column="8" />
+        <mark key="." line="27" column="8" />
+      </file>
       <file name="/Dummy.txt" timestamp="1531509623678">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -99,7 +105,7 @@
         <mark key="." line="10" column="20" />
         <mark key="^" line="14" column="29" />
       </file>
-      <file name="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0617-merge-two-binary-trees.py" timestamp="1531509159093">
+      <file name="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0617-merge-two-binary-trees.py" timestamp="1531595505187">
         <mark key="'" line="25" column="12" />
         <mark key="[" line="22" column="8" />
         <mark key="]" line="22" column="18" />
@@ -237,7 +243,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>node_merged</text>
@@ -249,31 +255,31 @@
         <text encoding="base64">ICAgICAgICAgICAgbm9kZV9tZXJnZWQubGVmdCA9IHNlbGYubWVyZ2VUcmVlcyh0MS5sZWZ0LCB0MS5yaWdodCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb3VudGVyLml0ZW1zCg==</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBjb3VudGVyLml0ZW1zCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">cAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICBoYW1taW5nX2Rpc3RhbmNlID0gMAogICAgZm9yIGkgaW4gcmFuZ2UoMzIpOgogICAgICAgIG1hc2sgPSAyIDw8IGkKICAgICAgICBpZiBtYXNrICYgeCAhPSBtYXNrICYgeToKICAgICAgICAgICAgaGFtbWluZ19kaXN0YW5jZSArPSAxCgogICAgcmV0dXJuIGhhbW1pbmdfZGlzdGFuY2UK</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBlbHNlOgogICAgICAgICAgICAjICAgICBtYXhfcHJvZml0X2J1eV9wcmljZV95ZXN0ZXJkYXkgPSBtYXhfcHJvZml0X2J1eV9wcmljZV9lYWNoX2RheVtpbmRleF9kYXkgLSAxXQogICAgICAgICAgICAjICAgICBtYXhfcHJvZml0X3NlbGxfcHJpY2VfeWVzdGVyZGF5ID0gbWF4X3Byb2ZpdF9zZWxsX3ByaWNlX2VhY2hfZGF5W2luZGV4X2RheSAtIDFdCiAgICAgICAgICAgICMKICAgICAgICAgICAgIyAgICAgaWYgbWF4X3Byb2ZpdF9zZWxsX3ByaWNlX3llc3RlcmRheSBpcyBOb25lIGFuZCBtYXhfcHJvZml0X2J1eV9wcmljZV95ZXN0ZXJkYXkgPD0gMDoKICAgICAgICAgICAgIyAgICAgICAgIG1heF9wcm9maXRfc2VsbF9wcmljZV9lYWNoX2RheS5hcHBlbmQoTm9uZSkKICAgICAgICAgICAgIyAgICAgZWxzZToKICAgICAgICAgICAgIyAgICAgICAgIG1heF9wcm9maXRfc2VsbF9wcmljZV9lYWNoX2RheS5hcHBlbmQobWF4X3dpdGhfbm9uZShtYXhfcHJvZml0X3NlbGxfcHJpY2VfZWFjaF9kYXlbaW5kZXhfZGF5IC0gMV0sIHByaWNlKSkKICAgICAgICAgICAgIwogICAgICAgICAgICAjICAgICBtYXhfcHJvZml0X2J1eV9wcmljZV9lYWNoX2RheS5hcHBlbmQobWluKG1heF9wcm9maXRfYnV5X3ByaWNlX3llc3RlcmRheSwgcHJpY2UpKQoK</text>
+        <text encoding="base64">CiAgICBoYW1taW5nX2Rpc3RhbmNlID0gMAogICAgZm9yIGkgaW4gcmFuZ2UoMzIpOgogICAgICAgIG1hc2sgPSAyIDw8IGkKICAgICAgICBpZiBtYXNrICYgeCAhPSBtYXNrICYgeToKICAgICAgICAgICAgaGFtbWluZ19kaXN0YW5jZSArPSAxCgogICAgcmV0dXJuIGhhbW1pbmdfZGlzdGFuY2UK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
