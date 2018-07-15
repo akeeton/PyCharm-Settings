@@ -9,7 +9,7 @@
         <mark key="^" line="41" column="22" />
         <mark key="." line="41" column="22" />
       </file>
-      <file name="/Dummy.txt" timestamp="1531599828502">
+      <file name="/Dummy.txt" timestamp="1531618248174">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -28,7 +28,7 @@
         <mark key="^" line="60" column="38" />
         <mark key="." line="62" column="39" />
       </file>
-      <file name="/Python Console" timestamp="1531508796612">
+      <file name="/Python Console" timestamp="1531618858545">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1530994814156">
@@ -105,6 +105,12 @@
         <mark key="." line="10" column="20" />
         <mark key="^" line="14" column="29" />
       </file>
+      <file name="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/weekly-contest-093-0868-binary-gap.py" timestamp="1531619045774">
+        <mark key="[" line="8" column="28" />
+        <mark key="]" line="8" column="31" />
+        <mark key="." line="8" column="31" />
+        <mark key="^" line="8" column="31" />
+      </file>
       <file name="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0617-merge-two-binary-trees.py" timestamp="1531595505187">
         <mark key="'" line="25" column="12" />
         <mark key="[" line="22" column="8" />
@@ -140,10 +146,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="28" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0003-longest-substring-without-repeating-characters.py" />
-      <jump line="11" column="30" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0003-longest-substring-without-repeating-characters.py" />
-      <jump line="12" column="8" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0003-longest-substring-without-repeating-characters.py" />
-      <jump line="16" column="12" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0003-longest-substring-without-repeating-characters.py" />
       <jump line="24" column="34" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0003-longest-substring-without-repeating-characters.py" />
       <jump line="26" column="33" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0003-longest-substring-without-repeating-characters.py" />
       <jump line="29" column="20" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0003-longest-substring-without-repeating-characters.py" />
@@ -240,55 +242,59 @@
       <jump line="22" column="8" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0617-merge-two-binary-trees.py" />
       <jump line="25" column="12" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0617-merge-two-binary-trees.py" />
       <jump line="13" column="7" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0226-invert-binary-tree.py" />
+      <jump line="7" column="23" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/weekly-contest-093-0868-binary-gap.py" />
+      <jump line="12" column="30" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/weekly-contest-093-0868-binary-gap.py" />
+      <jump line="13" column="31" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/weekly-contest-093-0868-binary-gap.py" />
+      <jump line="14" column="32" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/weekly-contest-093-0868-binary-gap.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>self</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>self</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxub2RlX21lcmdlZFw+</text>
+        <text encoding="base64">XDxwb3Nfb2Zfb25lXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzID0gIiIKICAgICAgICBxdWV1ZSA9IGRlcXVlKCkKICAgICAgICBxdWV1ZS5hcHBlbmRsZWZ0KHNlbGYpCgogICAgICAgIHdoaWxlIGxlbihxdWV1ZSkgPiAwOgogICAgICAgICAgICBub2RlID0gcXVldWUucG9wKCkKICAgICAgICAgICAgcyArPSAie30gIi5mb3JtYXQobm9kZS52YWwpCgogICAgICAgICAgICBpZiBub2RlLmxlZnQgaXMgbm90IE5vbmU6CiAgICAgICAgICAgICAgICBxdWV1ZS5hcHBlbmRsZWZ0KG5vZGUubGVmdCkKCiAgICAgICAgICAgIGlmIG5vZGUucmlnaHQgaXMgbm90IE5vbmU6CiAgICAgICAgICAgICAgICBxdWV1ZS5hcHBlbmRsZWZ0KG5vZGUucmlnaHQpCgogICAgICAgIHJldHVybiBzWzotMV0K</text>
+        <text encoding="base64">ICAgIHByaW50KHNvbC5iaW5hcnlHYXAoOCkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgbm9kZS5sZWZ0IGlzIG5vdCBOb25lOgogICAgICAgICAgICAgICAgcXVldWUuYXBwZW5kbGVmdChub2RlLmxlZnQpCgo=</text>
+        <text encoding="base64">ICAgICAgICBwb3Nfb2ZfZmlyc3Rfb25lID0gMAogICAgICAgIHBvc19vZl9zZWNvbmRfb25lID0gMAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcyArPSAie30gIi5mb3JtYXQobm9kZS52YWwpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIG5vdCBwb3Nfb2ZfZmlyc3Rfb25lOgogICAgICAgICAgICAgICAgICAgIHBvc19vZl9zZWNvbmRfb25lID0gcG9zX29mX2ZpcnN0X29uZSA9IGJpdF9wb3MKICAgICAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICAgICAgcG9zX29mX3NlY29uZF9vbmUgPSBiaXRfcG9zCgogICAgICAgIHJldHVybiBwb3Nfb2Zfc2Vjb25kX29uZSAtIHBvc19vZl9maXJzdF9vbmUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzID0gIiIK</text>
+        <text encoding="base64">CiAgICAgICAgICAgIGlmIGJpdCA+IDA6CiAgICAgICAgICAgICAgICBpZiBub3QgcG9zX29mX2ZpcnN0X29uZToKICAgICAgICAgICAgICAgICAgICBwb3Nfb2Zfc2Vjb25kX29uZSA9IHBvc19vZl9maXJzdF9vbmUgPSBiaXRfcG9zCiAgICAgICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgICAgIHBvc19vZl9zZWNvbmRfb25lID0gYml0X3BvcwoKICAgICAgICByZXR1cm4gcG9zX29mX3NlY29uZF9vbmUgLSBwb3Nfb2ZfZmlyc3Rfb25lCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIDAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBwb3Nfb2ZfZmlyc3Rfb25lIGFuZCBwb3Nfb2Zfc2Vjb25kX29uZToK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgbm90IHBvc19vZl9maXJzdF9vbmUgYW5kIGJpdCA+IDA6CiAgICAgICAgICAgICAgICBwb3Nfb2ZfZmlyc3Rfb25lID0gYml0X3BvcwogICAgICAgICAgICBlbGlmIHBvc19vZl9maXJzdF9vbmUgYW5kIGJpdCA+IDA6CiAgICAgICAgICAgICAgICBwb3Nfb2Zfc2Vjb25kX29uZSA9IGJpdF9wb3MKCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gMAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxub2RlX21lcmdlZFw+</last-search>
+      <last-search encoding="base64">XDxwb3Nfb2Zfb25lXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxub2RlX21lcmdlZFw+</last-pattern>
+      <last-pattern encoding="base64">XDxwb3Nfb2Zfb25lXD4=</last-pattern>
       <last-replace>tree_b</last-replace>
       <last-substitute>root\.right</last-substitute>
       <last-dir>1</last-dir>
@@ -296,7 +302,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx2YWxcPg==</entry>
         <entry encoding="base64">XDxsZW5ndGhcPg==</entry>
         <entry encoding="base64">XDxwYXJhbVw+</entry>
         <entry>]</entry>
@@ -316,6 +321,7 @@
         <entry encoding="base64">XDxtYXhfcHJvZml0X2J1eV9wcmljZV9lYWNoX2RheVw+</entry>
         <entry>buy</entry>
         <entry encoding="base64">XDxub2RlX21lcmdlZFw+</entry>
+        <entry encoding="base64">XDxwb3Nfb2Zfb25lXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>we</entry>
