@@ -9,11 +9,11 @@
         <mark key="^" line="41" column="22" />
         <mark key="." line="41" column="22" />
       </file>
-      <file name="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0406-queue-reconstruction-by-height.py" timestamp="1534619126838">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-        <mark key="^" line="19" column="0" />
+      <file name="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0406-queue-reconstruction-by-height.py" timestamp="1534623299913">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="29" column="54" />
+        <mark key="." line="29" column="54" />
+        <mark key="^" line="29" column="54" />
       </file>
       <file name="/Dummy.txt" timestamp="1534547230420">
         <mark key="[" line="0" column="16" />
@@ -34,7 +34,7 @@
         <mark key="^" line="60" column="38" />
         <mark key="." line="62" column="39" />
       </file>
-      <file name="/Python Console" timestamp="1534547175784">
+      <file name="/Python Console" timestamp="1534623257326">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1534546875169">
@@ -256,11 +256,11 @@
       <jump line="18" column="49" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0338-counting-bits.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>people_sorted</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bmFpdmUg</text>
+        <text>people_sorted</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoYWxmXD4=</text>
@@ -272,28 +272,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjIG9uZV9iaXRzX3BhcnRpYWxfc3VtcyA9IFswLCAxXQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gRXhjZXAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBvbmVfYml0c19wYXJ0aWFsX3N1bXMuYXBwZW5kKG9uZV9iaXRzX3BhcnRpYWxfc3Vtc1tuIC0gMV0gKyBvbmVfYml0c19jb3VudHNbbl0pCg==</text>
+        <text encoding="base64">ICAgICAgICBwZW9wbGVfc29ydGVkID0gW10K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwZW9wbGUuc29ydCgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaGFsZiA9IG4gLy8gMgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBlb3BsZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBvbmVfYml0c19jb3VudHMgPSBbXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QKICAgIGRlZiBiaW5hcnlfb25lcyhuKToKICAgICAgICAiIiIKICAgICAgICA6cGFyYW0gbjogaW50CiAgICAgICAgOnJldHVybjogaW50CiAgICAgICAgIiIiCgogICAgICAgIG51bV9vbmVzID0gMAogICAgICAgIHdoaWxlIG4gPiAwOgogICAgICAgICAgICBudW1fb25lcyArPSAweDEgJiBuCiAgICAgICAgICAgIG4gPj49IDEKCiAgICAgICAgcmV0dXJuIG51bV9vbmVzCg==</text>
+        <text encoding="base64">ICAgIFtbNywgMF0sIFs0LCA0XSwgWzcsIDFdLCBbNSwgMF0sIFs2LCAxXSwgWzUsIDJdXQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
