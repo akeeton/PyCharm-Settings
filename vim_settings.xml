@@ -9,6 +9,12 @@
         <mark key="^" line="41" column="22" />
         <mark key="." line="41" column="22" />
       </file>
+      <file name="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0406-queue-reconstruction-by-height.py" timestamp="1534619126838">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+        <mark key="^" line="19" column="0" />
+      </file>
       <file name="/Dummy.txt" timestamp="1534547230420">
         <mark key="[" line="0" column="16" />
         <mark key="]" line="0" column="16" />
@@ -250,8 +256,8 @@
       <jump line="18" column="49" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0338-counting-bits.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">bmFpdmUg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">bmFpdmUg</text>
@@ -263,31 +269,31 @@
         <text encoding="base64">ICAgIHByaW50KHNvbC5jb3VudEJpdHMoMikpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjIG9uZV9iaXRzX3BhcnRpYWxfc3VtcyA9IFswLCAxXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBvbmVfYml0c19wYXJ0aWFsX3N1bXMuYXBwZW5kKG9uZV9iaXRzX3BhcnRpYWxfc3Vtc1tuIC0gMV0gKyBvbmVfYml0c19jb3VudHNbbl0pCg==</text>
+        <text encoding="base64">ICAgICAgICAjIG9uZV9iaXRzX3BhcnRpYWxfc3VtcyA9IFswLCAxXQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBvbmVfYml0c19wYXJ0aWFsX3N1bXMuYXBwZW5kKG9uZV9iaXRzX3BhcnRpYWxfc3Vtc1tuIC0gMV0gKyBvbmVfYml0c19jb3VudHNbbl0pCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaGFsZiA9IG4gLy8gMgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaGFsZiA9IG4gLy8gMgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBvbmVfYml0c19jb3VudHMgPSBbXQo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBvbmVfYml0c19jb3VudHMgPSBbXQo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QKICAgIGRlZiBiaW5hcnlfb25lcyhuKToKICAgICAgICAiIiIKICAgICAgICA6cGFyYW0gbjogaW50CiAgICAgICAgOnJldHVybjogaW50CiAgICAgICAgIiIiCgogICAgICAgIG51bV9vbmVzID0gMAogICAgICAgIHdoaWxlIG4gPiAwOgogICAgICAgICAgICBudW1fb25lcyArPSAweDEgJiBuCiAgICAgICAgICAgIG4gPj49IDEKCiAgICAgICAgcmV0dXJuIG51bV9vbmVzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb25lXyA9IG9uZV9iaXRzX3BhcnRpYWxfc3Vtc1tuIC0gMV0gKyBvbmVfYml0c19jb3VudHNbaGFsZl0gKyBleHRyYQo=</text>
+        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QKICAgIGRlZiBiaW5hcnlfb25lcyhuKToKICAgICAgICAiIiIKICAgICAgICA6cGFyYW0gbjogaW50CiAgICAgICAgOnJldHVybjogaW50CiAgICAgICAgIiIiCgogICAgICAgIG51bV9vbmVzID0gMAogICAgICAgIHdoaWxlIG4gPiAwOgogICAgICAgICAgICBudW1fb25lcyArPSAweDEgJiBuCiAgICAgICAgICAgIG4gPj49IDEKCiAgICAgICAgcmV0dXJuIG51bV9vbmVzCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -330,6 +336,7 @@
         <entry encoding="base64">JzwsJz5yb290LmxlZnQvdHJlZV9h</entry>
         <entry encoding="base64">JzwsJz5zL3Jvb3RcLmxlZnQvdHJlZV9hL2c=</entry>
         <entry encoding="base64">JzwsJz5zL3Jvb3RcLnJpZ2h0L3RyZWVfYi9n</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
