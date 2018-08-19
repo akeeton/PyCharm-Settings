@@ -30,7 +30,7 @@
         <mark key="^" line="60" column="38" />
         <mark key="." line="62" column="39" />
       </file>
-      <file name="/Python Console" timestamp="1534714111009">
+      <file name="/Python Console" timestamp="1534719706856">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1534634297481">
@@ -81,12 +81,12 @@
         <mark key="^" line="42" column="0" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1534708974168">
+      <file name="/Dummy.txt" timestamp="1534719805979">
         <mark key="e" line="0" column="19" />
         <mark key="'" line="0" column="20" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="7" />
-        <mark key="." line="0" column="7" />
+        <mark key="[" line="0" column="5" />
+        <mark key="]" line="0" column="5" />
+        <mark key="." line="0" column="5" />
       </file>
       <file name="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0001-two-sum.py" timestamp="1530993756269">
         <mark key="[" line="31" column="0" />
@@ -94,12 +94,13 @@
         <mark key="." line="31" column="0" />
         <mark key="^" line="30" column="31" />
       </file>
-      <file name="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0647-palindromic-substrings.py" timestamp="1534714108820">
-        <mark key="'" line="48" column="10" />
-        <mark key="[" line="72" column="65" />
-        <mark key="]" line="72" column="65" />
-        <mark key="." line="72" column="65" />
-        <mark key="^" line="55" column="21" />
+      <file name="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0647-palindromic-substrings.py" timestamp="1534719683671">
+        <mark key="'" line="44" column="37" />
+        <mark key="[" line="44" column="23" />
+        <mark key="k" line="65" column="0" />
+        <mark key="]" line="44" column="23" />
+        <mark key="." line="44" column="23" />
+        <mark key="^" line="44" column="23" />
       </file>
       <file name="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0020-valid-parentheses.py" timestamp="1531096374774">
         <mark key="'" line="41" column="0" />
@@ -167,9 +168,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="3" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0003-longest-substring-without-repeating-characters.py" />
-      <jump line="3" column="14" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0003-longest-substring-without-repeating-characters.py" />
-      <jump line="54" column="0" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0021-merge-two-sorted-lists.py" />
       <jump line="13" column="0" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0021-merge-two-sorted-lists.py" />
       <jump line="27" column="28" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0021-merge-two-sorted-lists.py" />
       <jump line="29" column="14" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0021-merge-two-sorted-lists.py" />
@@ -267,64 +265,65 @@
       <jump line="49" column="0" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0647-palindromic-substrings.py" />
       <jump line="48" column="10" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0647-palindromic-substrings.py" />
       <jump line="0" column="20" filename="/Dummy.txt" />
+      <jump line="80" column="8" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0647-palindromic-substrings.py" />
+      <jump line="36" column="0" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0647-palindromic-substrings.py" />
+      <jump line="44" column="37" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0647-palindromic-substrings.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>=</text>
+        <text />
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text />
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwYWxpbmRyb21lc1w+</text>
+        <text>break</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaW50KHNvbC5jb3VudFN1YnN0cmluZ3MoImFhYSIpKQo=</text>
+      <register name="0" type="4">
+        <text>Remove stri</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRvX3N0dWZmKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB3aGlsZSBsZWZ0X2JvdW5kIDwgcmlnaHRfYm91bmQ6CiAgICAgICAgICAgIGlmIHNbbGVmdF9ib3VuZF0gIT0gc1tyaWdodF9ib3VuZF06CiAgICAgICAgICAgICAgICByZXR1cm4gRmFsc2UKCiAgICAgICAgICAgIGxlZnRfYm91bmQgKz0gMQogICAgICAgICAgICByaWdodF9ib3VuZCAtPSAxCgo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHJldHVybiBudW1fCg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNsaWNlID0gc1tsZWZ0X2JvdW5kOnJpZ2h0X2JvdW5kICsgMV0KCiAgICAgICAgICAgICAgICBsZW5ndGggPSByaWdodF9ib3VuZCAtIGxlZnRfYm91bmQgKyAxCiAgICAgICAgICAgICAgICBhc3NlcnQobGVuZ3RoID49IDEpCgogICAgICAgICAgICAgICAgaWYgbGVuZ3RoICUgMiA9PSAwOgogICAgICAgICAgICAgICAgICAgICMgbGVuZ3RoIGlzIGV2ZW4gc28gdHJlYXQgdGhlIG1pZGRsZSB0d28gY2hhcmFjdGVycyBhcyBhIHNpbmdsZSBtaWRkbGUgY2hhcmFjdGVyCgogICAgICAgICAgICAgICAgICAgIG1pZGRsZV9yaWdodCA9IGxlZnRfYm91bmQgKyBsZW5ndGggLy8gMgogICAgICAgICAgICAgICAgICAgIG1pZGRsZV9sZWZ0ID0gbWlkZGxlX3JpZ2h0IC0gMQoKICAgICAgICAgICAgICAgICAgICBpZiBzW21pZGRsZV9sZWZ0XSAhPSBzW21pZGRsZV9yaWdodF06CiAgICAgICAgICAgICAgICAgICAgICAgIGJyZWFrCgogICAgICAgICAgICAgICAgICAgIGxlZnQgPSBtaWRkbGVfbGVmdAogICAgICAgICAgICAgICAgICAgIHJpZ2h0ID0gbWlkZGxlX3JpZ2h0CiAgICAgICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgICAgICMgbGVuZ3RoIGlzIG9kZCBzbyBzdGFydCBhdCB0aGUgbWlkZGxlIGNoYXJhY3RlcgoKICAgICAgICAgICAgICAgICAgICBtaWRkbGUgPSBsZWZ0X2JvdW5kICsgbGVuZ3RoIC8vIDIKICAgICAgICAgICAgICAgICAgICBsZWZ0ID0gbWlkZGxlCiAgICAgICAgICAgICAgICAgICAgcmlnaHQgPSBtaWRkbGUKCiAgICAgICAgICAgICAgICB3aGlsZSBsZWZ0ID49IGxlZnRfYm91bmQgYW5kIHJpZ2h0IDw9IHJpZ2h0X2JvdW5kOgogICAgICAgICAgICAgICAgICAgIGlmIHNbbGVmdF0gPT0gc1tyaWdodF06CiAgICAgICAgICAgICAgICAgICAgICAgIHBhbGluZHJvbWVzLmFwcGVuZChzW2xlZnQ6cmlnaHQgKyAxXSkKICAgICAgICAgICAgICAgICAgICAgICAgbnVtX3BhbGluZHJvbWVzICs9IDEKICAgICAgICAgICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgICAgICAgICBicmVhawoKICAgICAgICAgICAgICAgICAgICBsZWZ0IC09IDEKICAgICAgICAgICAgICAgICAgICByaWdodCArPSAxCgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQobGVmdF9ib3VuZCA8IHJpZ2h0X2JvdW5kKQo=</text>
+        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QKICAgIGRlZiBpc19wYWxpbmRyb21lKHMsIGxlZnRfYm91bmQsIHJpZ2h0X2JvdW5kKToKICAgICAgICAiIiIKICAgICAgICA6cGFyYW0gczogc3RyCiAgICAgICAgOnBhcmFtIGxlZnRfYm91bmQ6IGludAogICAgICAgIDpwYXJhbSByaWdodF9ib3VuZDogaW50CiAgICAgICAgOnJldHVybjogYm9vbAogICAgICAgICIiIgoKCgogICAgICAgIHJldHVybiBUcnVlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFRydWUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiBzW2xlZnRdICE9IHNbcmlnaHRdOgogICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gRmFsc2UK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBsZW5ndGggPT0gMDoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgU29sdXRpb24uaXNfcGFsaW5kcm9tZShzLCBsZWZ0X2JvdW5kLCByaWdodF9ib3VuZCk6CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBudW1fcGFsaW5kcm9tZXMgKz0gMQogICAgICAgICAgICAgICAgICAgICAgICAgICAgcGFsaW5kcm9tZXMuYXBwZW5kKHNbbGVmdF9ib3VuZDpyaWdodF9ib3VuZCArIDFdKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwYWxpbmRyb21lc1w+</last-search>
+      <last-search>break</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwYWxpbmRyb21lc1w+</last-pattern>
+      <last-pattern>break</last-pattern>
       <last-replace>tree_b</last-replace>
       <last-substitute>root\.right</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx3YXlzX3RvX2NsaW1iX3N0ZXBzXD4=</entry>
-        <entry encoding="base64">XDx0cmVlX2JcPg==</entry>
         <entry encoding="base64">XDx0cmVlX2FcPg==</entry>
         <entry encoding="base64">XDx0cmVlX2RcPg==</entry>
         <entry encoding="base64">XDxpbl9vcmRlcl90cmF2ZXJzYWxcPg==</entry>
@@ -343,6 +342,8 @@
         <entry encoding="base64">XDxwZW9wbGVfc29ydGVkXD4=</entry>
         <entry encoding="base64">XDxlbXB0eV9zcGFjZXNfc2Vlblw+</entry>
         <entry encoding="base64">XDxwYWxpbmRyb21lc1w+</entry>
+        <entry encoding="base64">XDxyZXR1cm5cPg==</entry>
+        <entry>break</entry>
       </history-search>
       <history-cmd>
         <entry>we</entry>
@@ -388,6 +389,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed P</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
