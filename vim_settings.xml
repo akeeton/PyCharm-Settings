@@ -30,7 +30,7 @@
         <mark key="^" line="60" column="38" />
         <mark key="." line="62" column="39" />
       </file>
-      <file name="/Python Console" timestamp="1534719706856">
+      <file name="/Python Console" timestamp="1534721453584">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1534634297481">
@@ -94,13 +94,13 @@
         <mark key="." line="31" column="0" />
         <mark key="^" line="30" column="31" />
       </file>
-      <file name="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0647-palindromic-substrings.py" timestamp="1534719683671">
+      <file name="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0647-palindromic-substrings.py" timestamp="1534721448685">
         <mark key="'" line="44" column="37" />
-        <mark key="[" line="44" column="23" />
+        <mark key="[" line="55" column="57" />
         <mark key="k" line="65" column="0" />
-        <mark key="]" line="44" column="23" />
-        <mark key="." line="44" column="23" />
-        <mark key="^" line="44" column="23" />
+        <mark key="]" line="55" column="81" />
+        <mark key="." line="55" column="81" />
+        <mark key="^" line="55" column="81" />
       </file>
       <file name="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0020-valid-parentheses.py" timestamp="1531096374774">
         <mark key="'" line="41" column="0" />
@@ -270,11 +270,11 @@
       <jump line="44" column="37" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0647-palindromic-substrings.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text />
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>add</text>
       </register>
       <register name="/" type="4">
         <text>break</text>
@@ -283,31 +283,31 @@
         <text>Remove stri</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRvX3N0dWZmKCkK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBudW1fCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAjIHJldHVybiBudW1fcGFsaW5kcm9tZXMgKyBsZW4ocykgIyBsZW4ocykgZm9yIHNpbmdsZS1jaGFyYWN0ZXIgcGFsaW5kcm9tZXMK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAjIHJldHVybiBudW1fcGFsaW5kcm9tZXMgKyBsZW4ocykgIyBsZW4ocykgZm9yIHNpbmdsZS1jaGFyYWN0ZXIgcGFsaW5kcm9tZXMK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludChwYWxpbmRyb21lcykK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNsaWNlID0gc1tsZWZ0X2JvdW5kOnJpZ2h0X2JvdW5kICsgMV0KCiAgICAgICAgICAgICAgICBsZW5ndGggPSByaWdodF9ib3VuZCAtIGxlZnRfYm91bmQgKyAxCiAgICAgICAgICAgICAgICBhc3NlcnQobGVuZ3RoID49IDEpCgogICAgICAgICAgICAgICAgaWYgbGVuZ3RoICUgMiA9PSAwOgogICAgICAgICAgICAgICAgICAgICMgbGVuZ3RoIGlzIGV2ZW4gc28gdHJlYXQgdGhlIG1pZGRsZSB0d28gY2hhcmFjdGVycyBhcyBhIHNpbmdsZSBtaWRkbGUgY2hhcmFjdGVyCgogICAgICAgICAgICAgICAgICAgIG1pZGRsZV9yaWdodCA9IGxlZnRfYm91bmQgKyBsZW5ndGggLy8gMgogICAgICAgICAgICAgICAgICAgIG1pZGRsZV9sZWZ0ID0gbWlkZGxlX3JpZ2h0IC0gMQoKICAgICAgICAgICAgICAgICAgICBpZiBzW21pZGRsZV9sZWZ0XSAhPSBzW21pZGRsZV9yaWdodF06CiAgICAgICAgICAgICAgICAgICAgICAgIGJyZWFrCgogICAgICAgICAgICAgICAgICAgIGxlZnQgPSBtaWRkbGVfbGVmdAogICAgICAgICAgICAgICAgICAgIHJpZ2h0ID0gbWlkZGxlX3JpZ2h0CiAgICAgICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgICAgICMgbGVuZ3RoIGlzIG9kZCBzbyBzdGFydCBhdCB0aGUgbWlkZGxlIGNoYXJhY3RlcgoKICAgICAgICAgICAgICAgICAgICBtaWRkbGUgPSBsZWZ0X2JvdW5kICsgbGVuZ3RoIC8vIDIKICAgICAgICAgICAgICAgICAgICBsZWZ0ID0gbWlkZGxlCiAgICAgICAgICAgICAgICAgICAgcmlnaHQgPSBtaWRkbGUKCiAgICAgICAgICAgICAgICB3aGlsZSBsZWZ0ID49IGxlZnRfYm91bmQgYW5kIHJpZ2h0IDw9IHJpZ2h0X2JvdW5kOgogICAgICAgICAgICAgICAgICAgIGlmIHNbbGVmdF0gPT0gc1tyaWdodF06CiAgICAgICAgICAgICAgICAgICAgICAgIHBhbGluZHJvbWVzLmFwcGVuZChzW2xlZnQ6cmlnaHQgKyAxXSkKICAgICAgICAgICAgICAgICAgICAgICAgbnVtX3BhbGluZHJvbWVzICs9IDEKICAgICAgICAgICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgICAgICAgICBicmVhawoKICAgICAgICAgICAgICAgICAgICBsZWZ0IC09IDEKICAgICAgICAgICAgICAgICAgICByaWdodCArPSAxCgo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgYyBpbiBzOgogICAgICAgICAgICBwYWxpbmRyb21lcy5hcHBlbmQoYykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRvX3N0dWZmKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QKICAgIGRlZiBpc19wYWxpbmRyb21lKHMsIGxlZnRfYm91bmQsIHJpZ2h0X2JvdW5kKToKICAgICAgICAiIiIKICAgICAgICA6cGFyYW0gczogc3RyCiAgICAgICAgOnBhcmFtIGxlZnRfYm91bmQ6IGludAogICAgICAgIDpwYXJhbSByaWdodF9ib3VuZDogaW50CiAgICAgICAgOnJldHVybjogYm9vbAogICAgICAgICIiIgoKCgogICAgICAgIHJldHVybiBUcnVlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiBzW2xlZnRdICE9IHNbcmlnaHRdOgogICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gRmFsc2UK</text>
+        <text encoding="base64">ICAgIHJldHVybiBudW1fCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgU29sdXRpb24uaXNfcGFsaW5kcm9tZShzLCBsZWZ0X2JvdW5kLCByaWdodF9ib3VuZCk6CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBudW1fcGFsaW5kcm9tZXMgKz0gMQogICAgICAgICAgICAgICAgICAgICAgICAgICAgcGFsaW5kcm9tZXMuYXBwZW5kKHNbbGVmdF9ib3VuZDpyaWdodF9ib3VuZCArIDFdKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
