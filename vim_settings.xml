@@ -16,11 +16,6 @@
         <mark key="." line="49" column="0" />
         <mark key="^" line="48" column="85" />
       </file>
-      <file name="/Dummy.txt" timestamp="1534634700961">
-        <mark key="[" line="0" column="17" />
-        <mark key="]" line="0" column="16" />
-        <mark key="." line="0" column="16" />
-      </file>
       <file name="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0021-merge-two-sorted-lists.py" timestamp="1531094943551">
         <mark key="'" line="45" column="16" />
         <mark key="[" line="69" column="0" />
@@ -35,30 +30,17 @@
         <mark key="^" line="60" column="38" />
         <mark key="." line="62" column="39" />
       </file>
-      <file name="/Python Console" timestamp="1534634557918">
+      <file name="/Python Console" timestamp="1534708935691">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1534634297481">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0001-two-sum.py" timestamp="1530993756269">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
-        <mark key="^" line="30" column="31" />
       </file>
       <file name="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0009-palindrome-number.py" timestamp="1531075432477">
         <mark key="[" line="12" column="27" />
         <mark key="]" line="12" column="28" />
         <mark key="^" line="12" column="28" />
         <mark key="." line="12" column="28" />
-      </file>
-      <file name="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0020-valid-parentheses.py" timestamp="1531096374774">
-        <mark key="'" line="41" column="0" />
-        <mark key="[" line="37" column="18" />
-        <mark key="]" line="37" column="28" />
-        <mark key="." line="37" column="28" />
-        <mark key="^" line="37" column="28" />
       </file>
       <file name="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0136-single-number.py" timestamp="1531509621035">
         <mark key="[" line="18" column="38" />
@@ -79,6 +61,52 @@
         <mark key="]" line="24" column="77" />
         <mark key="." line="24" column="77" />
         <mark key="^" line="18" column="47" />
+      </file>
+      <file name="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/weekly-contest-093-0868-binary-gap.py" timestamp="1531619045774">
+        <mark key="[" line="8" column="28" />
+        <mark key="]" line="8" column="31" />
+        <mark key="." line="8" column="31" />
+        <mark key="^" line="8" column="31" />
+      </file>
+      <file name="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0053-maximum-subarray.py" timestamp="1531222985518">
+        <mark key="'" line="10" column="55" />
+        <mark key="[" line="14" column="50" />
+        <mark key="]" line="14" column="50" />
+        <mark key="." line="14" column="50" />
+        <mark key="^" line="14" column="50" />
+      </file>
+      <file name="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0007-reverse-integer.py" timestamp="1531075260017">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="^" line="42" column="0" />
+        <mark key="." line="42" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1534708974168">
+        <mark key="e" line="0" column="19" />
+        <mark key="'" line="0" column="20" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="7" />
+        <mark key="." line="0" column="7" />
+      </file>
+      <file name="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0001-two-sum.py" timestamp="1530993756269">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+        <mark key="^" line="30" column="31" />
+      </file>
+      <file name="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0647-palindromic-substrings.py" timestamp="1534708972658">
+        <mark key="'" line="48" column="10" />
+        <mark key="[" line="46" column="11" />
+        <mark key="]" line="49" column="22" />
+        <mark key="." line="49" column="22" />
+        <mark key="^" line="49" column="22" />
+      </file>
+      <file name="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0020-valid-parentheses.py" timestamp="1531096374774">
+        <mark key="'" line="41" column="0" />
+        <mark key="[" line="37" column="18" />
+        <mark key="]" line="37" column="28" />
+        <mark key="." line="37" column="28" />
+        <mark key="^" line="37" column="28" />
       </file>
       <file name="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0002-add-two-numbers.py" timestamp="1530983709594">
         <mark key="'" line="33" column="65" />
@@ -114,12 +142,6 @@
         <mark key="." line="10" column="20" />
         <mark key="^" line="14" column="29" />
       </file>
-      <file name="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/weekly-contest-093-0868-binary-gap.py" timestamp="1531619045774">
-        <mark key="[" line="8" column="28" />
-        <mark key="]" line="8" column="31" />
-        <mark key="." line="8" column="31" />
-        <mark key="^" line="8" column="31" />
-      </file>
       <file name="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0617-merge-two-binary-trees.py" timestamp="1531595505187">
         <mark key="'" line="25" column="12" />
         <mark key="[" line="22" column="8" />
@@ -133,13 +155,6 @@
         <mark key="^" line="36" column="28" />
         <mark key="." line="36" column="28" />
       </file>
-      <file name="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0053-maximum-subarray.py" timestamp="1531222985518">
-        <mark key="'" line="10" column="55" />
-        <mark key="[" line="14" column="50" />
-        <mark key="]" line="14" column="50" />
-        <mark key="." line="14" column="50" />
-        <mark key="^" line="14" column="50" />
-      </file>
       <file name="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0070-climbing-stairs.py" timestamp="1531223930388">
         <mark key="'" line="12" column="32" />
         <mark key="[" line="8" column="39" />
@@ -147,20 +162,8 @@
         <mark key="." line="8" column="39" />
         <mark key="^" line="8" column="39" />
       </file>
-      <file name="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0007-reverse-integer.py" timestamp="1531075260017">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="^" line="42" column="0" />
-        <mark key="." line="42" column="0" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="14" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0003-longest-substring-without-repeating-characters.py" />
-      <jump line="5" column="0" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0003-longest-substring-without-repeating-characters.py" />
-      <jump line="73" column="4" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0003-longest-substring-without-repeating-characters.py" />
-      <jump line="6" column="0" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0003-longest-substring-without-repeating-characters.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0003-longest-substring-without-repeating-characters.py" />
-      <jump line="2" column="10" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0003-longest-substring-without-repeating-characters.py" />
       <jump line="42" column="3" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0003-longest-substring-without-repeating-characters.py" />
       <jump line="3" column="14" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0003-longest-substring-without-repeating-characters.py" />
       <jump line="54" column="0" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0021-merge-two-sorted-lists.py" />
@@ -255,63 +258,68 @@
       <jump line="0" column="0" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0406-queue-reconstruction-by-height.py" />
       <jump line="44" column="12" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0406-queue-reconstruction-by-height.py" />
       <jump line="50" column="47" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0406-queue-reconstruction-by-height.py" />
+      <jump line="58" column="19" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0647-palindromic-substrings.py" />
+      <jump line="57" column="14" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0647-palindromic-substrings.py" />
+      <jump line="55" column="20" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0647-palindromic-substrings.py" />
+      <jump line="49" column="0" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0647-palindromic-substrings.py" />
+      <jump line="48" column="10" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0647-palindromic-substrings.py" />
+      <jump line="0" column="20" filename="/Dummy.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiB0YWxsX3Blb3BsZV9pbl9mcm9udCA9PSB0YWxsX3Blb3BsZV9zZWVuOgo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IG9yIGxlbmd0aCA9PSAxOg==</text>
       </register>
       <register name="-" type="4">
-        <text>empty_spaces_seen</text>
+        <text encoding="base64">IG9yIGxlbmd0aCA9PSAxOg==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxlbXB0eV9zcGFjZXNfc2Vlblw+</text>
+        <text encoding="base64">XDxwYWxpbmRyb21lc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaW50KHNvbC5jb3VudEJpdHMoMikpCg==</text>
+        <text encoding="base64">ICAgIHByaW50KHNvbC5jb3VudFN1YnN0cmluZ3MoImFhYSIpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiB0YWxsX3Blb3BsZV9pbl9mcm9udCA9PSB0YWxsX3Blb3BsZV9zZWVuOgo=</text>
+        <text encoding="base64">ICAgICAgICA6cGFyYW0gbGVmdDogCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA6cGFyYW0gczogc3RyCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlbXB0eV9zcGFjZXNfc2VlbiArPSAxCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0YWxsX3Blb3BsZV9zZWVuICs9IDEK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN1YnN0cmluZyA9IHNbbGVmdDpyaWdodCArIDFdCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIG5vdCBwZW9wbGVfaW5fbGluZVtpXSBvciBTb2x1dGlvbi5nZXRfaGVpZ2h0KHBlb3BsZV9pbl9saW5lW2ldKSA+PSBTb2x1dGlvbi5nZXRfaGVpZ2h0KHBlcnNvbl90b19pbnNlcnQpOgo=</text>
+        <text encoding="base64">ICAgICAgICBsZWZ0ID0gMAogICAgICAgIHJpZ2h0ID0gbGVuKHMpIC0gMQoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIG5vdCBwZW9wbGVfaW5fbGluZVtpXSBvciBTb2x1dGlvbi5nZXRfaGVpZ2h0KHBlb3BsZV9pbl9saW5lW2ldKSA+PSBTb2x1dGlvbi5nZXRfaGVpZ2h0KHBlcnNvbl90b19pbnNlcnQpOgogICAgICAgICAgICAgICAgICAgIHRhbGxfcGVvcGxlX3NlZW4gKz0gMQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QKICAgIGRlZiBnZXRfaGVpZ2h0KHBlcnNvbik6CiAgICAgICAgcmV0dXJuIHBlcnNvblswXQoKICAgIEBzdGF0aWNtZXRob2QKICAgIGRlZiBnZXRfdGFsbF9wZW9wbGVfaW5fZnJvbnQocGVyc29uKToKICAgICAgICByZXR1cm4gcGVyc29uWzFdCg==</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBsZWZ0ID0gMAogICAgICAgIHJpZ2h0ID0gMAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZvciBpLCAgaW4gZW51bWVyYXRlKCk6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxlbXB0eV9zcGFjZXNfc2Vlblw+</last-search>
+      <last-search encoding="base64">XDxwYWxpbmRyb21lc1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxlbXB0eV9zcGFjZXNfc2Vlblw+</last-pattern>
+      <last-pattern encoding="base64">XDxwYWxpbmRyb21lc1w+</last-pattern>
       <last-replace>tree_b</last-replace>
       <last-substitute>root\.right</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxudW1cPg==</entry>
         <entry encoding="base64">XDx3YXlzX3RvX2NsaW1iX3N0ZXBzXD4=</entry>
         <entry encoding="base64">XDx0cmVlX2JcPg==</entry>
         <entry encoding="base64">XDx0cmVlX2FcPg==</entry>
@@ -331,6 +339,7 @@
         <entry encoding="base64">XDxoYWxmXD4=</entry>
         <entry encoding="base64">XDxwZW9wbGVfc29ydGVkXD4=</entry>
         <entry encoding="base64">XDxlbXB0eV9zcGFjZXNfc2Vlblw+</entry>
+        <entry encoding="base64">XDxwYWxpbmRyb21lc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>we</entry>
