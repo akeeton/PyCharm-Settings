@@ -30,7 +30,7 @@
         <mark key="^" line="60" column="38" />
         <mark key="." line="62" column="39" />
       </file>
-      <file name="/Python Console" timestamp="1534721453584">
+      <file name="/Python Console" timestamp="1534790507516">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1534634297481">
@@ -81,10 +81,10 @@
         <mark key="^" line="42" column="0" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1534719805979">
+      <file name="/Dummy.txt" timestamp="1534790534129">
         <mark key="e" line="0" column="19" />
         <mark key="'" line="0" column="20" />
-        <mark key="[" line="0" column="5" />
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
       </file>
@@ -94,13 +94,12 @@
         <mark key="." line="31" column="0" />
         <mark key="^" line="30" column="31" />
       </file>
-      <file name="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0647-palindromic-substrings.py" timestamp="1534721448685">
-        <mark key="'" line="44" column="37" />
-        <mark key="[" line="55" column="57" />
-        <mark key="k" line="65" column="0" />
-        <mark key="]" line="55" column="81" />
-        <mark key="." line="55" column="81" />
-        <mark key="^" line="55" column="81" />
+      <file name="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0647-palindromic-substrings.py" timestamp="1534790528579">
+        <mark key="'" line="41" column="39" />
+        <mark key="[" line="54" column="59" />
+        <mark key="]" line="55" column="39" />
+        <mark key="^" line="55" column="39" />
+        <mark key="." line="55" column="39" />
       </file>
       <file name="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0020-valid-parentheses.py" timestamp="1531096374774">
         <mark key="'" line="41" column="0" />
@@ -168,14 +167,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="0" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0021-merge-two-sorted-lists.py" />
-      <jump line="27" column="28" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0021-merge-two-sorted-lists.py" />
-      <jump line="29" column="14" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0021-merge-two-sorted-lists.py" />
-      <jump line="41" column="12" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0021-merge-two-sorted-lists.py" />
-      <jump line="45" column="16" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0021-merge-two-sorted-lists.py" />
-      <jump line="14" column="0" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0020-valid-parentheses.py" />
-      <jump line="27" column="0" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0020-valid-parentheses.py" />
-      <jump line="38" column="0" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0020-valid-parentheses.py" />
       <jump line="47" column="0" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0020-valid-parentheses.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0020-valid-parentheses.py" />
       <jump line="1" column="0" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0020-valid-parentheses.py" />
@@ -268,55 +259,63 @@
       <jump line="80" column="8" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0647-palindromic-substrings.py" />
       <jump line="36" column="0" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0647-palindromic-substrings.py" />
       <jump line="44" column="37" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0647-palindromic-substrings.py" />
+      <jump line="88" column="38" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0647-palindromic-substrings.py" />
+      <jump line="40" column="20" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0647-palindromic-substrings.py" />
+      <jump line="32" column="8" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0647-palindromic-substrings.py" />
+      <jump line="54" column="20" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0647-palindromic-substrings.py" />
+      <jump line="61" column="16" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0647-palindromic-substrings.py" />
+      <jump line="62" column="15" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0647-palindromic-substrings.py" />
+      <jump line="31" column="10" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0647-palindromic-substrings.py" />
+      <jump line="41" column="39" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0647-palindromic-substrings.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICsgbGVuKHMpICMgbGVuKHMpIGZvciBzaW5nbGUtY2hhcmFjdGVyIHBhbGluZHJvbWVz</text>
       </register>
       <register name="-" type="4">
-        <text>add</text>
+        <text encoding="base64">ICsgbGVuKHMpICMgbGVuKHMpIGZvciBzaW5nbGUtY2hhcmFjdGVyIHBhbGluZHJvbWVz</text>
       </register>
       <register name="/" type="4">
-        <text>break</text>
+        <text encoding="base64">XDxwYWxpbmRyb21lc1w+</text>
       </register>
-      <register name="0" type="4">
-        <text>Remove stri</text>
+      <register name="0" type="2">
+        <text encoding="base64">CiAgICAgICAgZm9yIG1pZGRsZSBpbiByYW5nZShsZW4ocykpOgogICAgICAgICAgICBsZWZ0ID0gbWlkZGxlCiAgICAgICAgICAgIHJpZ2h0ID0gbWlkZGxlCgogICAgICAgICAgICB3aGlsZSBsZWZ0ID49IDAgYW5kIHJpZ2h0IDwgbGVuKHMpOgogICAgICAgICAgICAgICAgaWYgc1tsZWZ0XSA9PSBzW3JpZ2h0XToKICAgICAgICAgICAgICAgICAgICBwYWxpbmRyb21lcy5hcHBlbmQoc1tsZWZ0OnJpZ2h0ICsgMV0pCiAgICAgICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgICAgIGJyZWFrCgogICAgICAgICAgICAgICAgbGVmdCAtPSAxCiAgICAgICAgICAgICAgICByaWdodCArPSAxCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjIHJldHVybiBudW1fcGFsaW5kcm9tZXMgKyBsZW4ocykgIyBsZW4ocykgZm9yIHNpbmdsZS1jaGFyYWN0ZXIgcGFsaW5kcm9tZXMK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjIHJldHVybiBudW1fcGFsaW5kcm9tZXMgKyBsZW4ocykgIyBsZW4ocykgZm9yIHNpbmdsZS1jaGFyYWN0ZXIgcGFsaW5kcm9tZXMK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChwYWxpbmRyb21lcykK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgYyBpbiBzOgogICAgICAgICAgICBwYWxpbmRyb21lcy5hcHBlbmQoYykK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRvX3N0dWZmKCkK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QKICAgIGRlZiBkb19zdHVmZihzLCBsZWZ0X2JvdW5kLCByaWdodF9ib3VuZCwgcGFsaW5kcm9tZXMpOgogICAgICAgICIiIgogICAgICAgIDpwYXJhbSBzOiBzdHIKICAgICAgICA6cGFyYW0gbGVmdF9ib3VuZDogaW50CiAgICAgICAgOnBhcmFtIHJpZ2h0X2JvdW5kOiBpbnQKICAgICAgICA6cGFyYW0gcGFsaW5kcm9tZXM6IExpc3Rbc3RyXQogICAgICAgIDpyZXR1cm46IGludAogICAgICAgICIiIgoKICAgICAgICBudW1fcGFsaW5kcm9tZXMgPSAwCgogICAgICAgIHNsaWNlID0gc1tsZWZ0X2JvdW5kOnJpZ2h0X2JvdW5kICsgMV0KCiAgICAgICAgbGVuZ3RoID0gcmlnaHRfYm91bmQgLSBsZWZ0X2JvdW5kICsgMQogICAgICAgIGFzc2VydChsZW5ndGggPj0gMSkKCiAgICAgICAgaWYgbGVuZ3RoICUgMiA9PSAwOgogICAgICAgICAgICAjIGxlbmd0aCBpcyBldmVuIHNvIHRyZWF0IHRoZSBtaWRkbGUgdHdvIGNoYXJhY3RlcnMgYXMgYSBzaW5nbGUgbWlkZGxlIGNoYXJhY3RlcgoKICAgICAgICAgICAgbWlkZGxlX3JpZ2h0ID0gbGVmdF9ib3VuZCArIGxlbmd0aCAvLyAyCiAgICAgICAgICAgIG1pZGRsZV9sZWZ0ID0gbWlkZGxlX3JpZ2h0IC0gMQoKICAgICAgICAgICAgaWYgc1ttaWRkbGVfbGVmdF0gIT0gc1ttaWRkbGVfcmlnaHRdOgogICAgICAgICAgICAgICAgcmV0dXJuIDAKCiAgICAgICAgICAgIGxlZnQgPSBtaWRkbGVfbGVmdAogICAgICAgICAgICByaWdodCA9IG1pZGRsZV9yaWdodAogICAgICAgIGVsc2U6CiAgICAgICAgICAgICMgbGVuZ3RoIGlzIG9kZCBzbyBzdGFydCBhdCB0aGUgbWlkZGxlIGNoYXJhY3RlcgoKICAgICAgICAgICAgbWlkZGxlID0gbGVmdF9ib3VuZCArIGxlbmd0aCAvLyAyCiAgICAgICAgICAgIGxlZnQgPSBtaWRkbGUKICAgICAgICAgICAgcmlnaHQgPSBtaWRkbGUKCiAgICAgICAgd2hpbGUgbGVmdCA+PSBsZWZ0X2JvdW5kIGFuZCByaWdodCA8PSByaWdodF9ib3VuZCBhbmQgcmlnaHQgLSBsZWZ0ICsgMSA+IDE6CiAgICAgICAgICAgIGlmIHNbbGVmdF0gPT0gc1tyaWdodF06CiAgICAgICAgICAgICAgICBwYWxpbmRyb21lcy5hcHBlbmQoc1tsZWZ0OnJpZ2h0ICsgMV0pCiAgICAgICAgICAgICAgICBudW1fcGFsaW5kcm9tZXMgKz0gMQogICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgYnJlYWsKCiAgICAgICAgICAgIGxlZnQgLT0gMQogICAgICAgICAgICByaWdodCArPSAxCgogICAgICAgIHJldHVybiBudW1fcGFsaW5kcm9tZXMKCiAgICAjIGRlZiBjb3VudFN1YnN0cmluZ3Moc2VsZiwgcyk6CiAgICAjICAgICAiIiIKICAgICMgICAgIDp0eXBlIHM6IHN0cgogICAgIyAgICAgOnJ0eXBlOiBpbnQKICAgICMgICAgICIiIgogICAgIwogICAgIyAgICAgaWYgbGVuKHMpID09IDAgb3IgbGVuKHMpID09IDE6CiAgICAjICAgICAgICAgcmV0dXJuIFRydWUKICAgICMKICAgICMgICAgIHBhbGluZHJvbWVzID0gW10KICAgICMgICAgIG51bV9wYWxpbmRyb21lcyA9IDAKICAgICMKICAgICMgICAgIGZvciBsZWZ0X2JvdW5kIGluIHJhbmdlKGxlbihzKSk6CiAgICAjICAgICAgICAgZm9yIHJpZ2h0X2JvdW5kIGluIHJhbmdlKGxlZnRfYm91bmQgKyAxLCBsZW4ocykpOgogICAgIyAgICAgICAgICAgICBudW1fcGFsaW5kcm9tZXMgKz0gU29sdXRpb24uZG9fc3R1ZmYocywgbGVmdF9ib3VuZCwgcmlnaHRfYm91bmQsIHBhbGluZHJvbWVzKQogICAgIwogICAgIyAgICAgZm9yIGMgaW4gczoKICAgICMgICAgICAgICBwYWxpbmRyb21lcy5hcHBlbmQoYykKICAgICMKICAgICMgICAgIHByaW50KHBhbGluZHJvbWVzKQogICAgIyAgICAgcmV0dXJuIGxlbihwYWxpbmRyb21lcykKICAgICMgICAgICMgcmV0dXJuIG51bV9wYWxpbmRyb21lcyArIGxlbihzKSAjIGxlbihzKSBmb3Igc2luZ2xlLWNoYXJhY3RlciBwYWxpbmRyb21lcwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBmb3IgYyBpbiBzOgogICAgICAgICAgICBwYWxpbmRyb21lcy5hcHBlbmQoYykKCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBmb3IgbGVmdF9ib3VuZCBpbiByYW5nZShsZW4ocykpOgogICAgICAgICAgICBmb3IgcmlnaHRfYm91bmQgaW4gcmFuZ2UobGVmdF9ib3VuZCArIDEsIGxlbihzKSk6CiAgICAgICAgICAgICAgICBudW1fcGFsaW5kcm9tZXMgKz0gU29sdXRpb24uZG9fc3R1ZmYocywgbGVmdF9ib3VuZCwgcmlnaHRfYm91bmQsIHBhbGluZHJvbWVzKQo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBudW1fCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAjIHJldHVybiBudW1fcGFsaW5kcm9tZXMgKyBsZW4ocykgIyBsZW4ocykgZm9yIHNpbmdsZS1jaGFyYWN0ZXIgcGFsaW5kcm9tZXMK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>break</last-search>
+      <last-search encoding="base64">XDxwYWxpbmRyb21lc1w+</last-search>
       <last-offset />
-      <last-pattern>break</last-pattern>
+      <last-pattern encoding="base64">XDxwYWxpbmRyb21lc1w+</last-pattern>
       <last-replace>tree_b</last-replace>
       <last-substitute>root\.right</last-substitute>
       <last-dir>1</last-dir>
@@ -324,7 +323,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx0cmVlX2FcPg==</entry>
         <entry encoding="base64">XDx0cmVlX2RcPg==</entry>
         <entry encoding="base64">XDxpbl9vcmRlcl90cmF2ZXJzYWxcPg==</entry>
         <entry encoding="base64">XDxsZWZ0X3N0clw+</entry>
@@ -341,9 +339,10 @@
         <entry encoding="base64">XDxoYWxmXD4=</entry>
         <entry encoding="base64">XDxwZW9wbGVfc29ydGVkXD4=</entry>
         <entry encoding="base64">XDxlbXB0eV9zcGFjZXNfc2Vlblw+</entry>
-        <entry encoding="base64">XDxwYWxpbmRyb21lc1w+</entry>
         <entry encoding="base64">XDxyZXR1cm5cPg==</entry>
         <entry>break</entry>
+        <entry encoding="base64">XDxudW1fcGFsaW5kcm9tZXNcPg==</entry>
+        <entry encoding="base64">XDxwYWxpbmRyb21lc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>we</entry>
