@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\0003-longest-substring-without-repeating-characters.py [leetcode-python]'" />
-    <option name="defaultScopeName" value="File '...\0003-longest-substring-without-repeating-characters.py [leetcode-python]'" />
-    <option name="SEARCH_SCOPE" value="File '...\0003-longest-substring-without-repeating-characters.py [leetcode-python]'" />
+    <option name="customScope" value="File '...\0695-max-area-of-island.py [leetcode-python]'" />
+    <option name="defaultScopeName" value="File '...\0695-max-area-of-island.py [leetcode-python]'" />
+    <option name="SEARCH_SCOPE" value="File '...\0695-max-area-of-island.py [leetcode-python]'" />
   </component>
 </application>
