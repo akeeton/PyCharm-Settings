@@ -37,7 +37,7 @@
         <mark key="." line="43" column="0" />
         <mark key="^" line="44" column="11" />
       </file>
-      <file name="/Python Console" timestamp="1534880114734">
+      <file name="/Python Console" timestamp="1534891050442">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1534804607482">
@@ -82,6 +82,13 @@
         <mark key="." line="8" column="31" />
         <mark key="^" line="8" column="31" />
       </file>
+      <file name="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0094-binary-tree-inorder-traversal.py" timestamp="1534891076464">
+        <mark key="'" line="89" column="3" />
+        <mark key="[" line="59" column="37" />
+        <mark key="]" line="59" column="40" />
+        <mark key="^" line="59" column="40" />
+        <mark key="." line="59" column="40" />
+      </file>
       <file name="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0053-maximum-subarray.py" timestamp="1531222985518">
         <mark key="'" line="10" column="55" />
         <mark key="[" line="14" column="50" />
@@ -95,7 +102,7 @@
         <mark key="^" line="42" column="0" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1534880149106">
+      <file name="/Dummy.txt" timestamp="1534891079630">
         <mark key="e" line="0" column="19" />
         <mark key="'" line="0" column="20" />
         <mark key="[" line="0" column="0" />
@@ -181,9 +188,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="12" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0101-symmetric-tree.py" />
-      <jump line="15" column="16" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0121-best-time-to-buy-and-sell-stock.py" />
-      <jump line="27" column="16" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0121-best-time-to-buy-and-sell-stock.py" />
       <jump line="24" column="16" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0121-best-time-to-buy-and-sell-stock.py" />
       <jump line="28" column="30" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0121-best-time-to-buy-and-sell-stock.py" />
       <jump line="43" column="56" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0121-best-time-to-buy-and-sell-stock.py" />
@@ -281,63 +285,65 @@
       <jump line="28" column="40" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0695-max-area-of-island.py" />
       <jump line="18" column="8" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0283-move-zeroes.py" />
       <jump line="19" column="14" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0283-move-zeroes.py" />
+      <jump line="12" column="11" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0094-binary-tree-inorder-traversal.py" />
+      <jump line="17" column="0" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0094-binary-tree-inorder-traversal.py" />
+      <jump line="89" column="3" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0094-binary-tree-inorder-traversal.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>&quot;&quot;.form</text>
       </register>
       <register name="-" type="4">
-        <text>index_first_sorted_zero</text>
+        <text>&quot;&quot;.form</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkb19zd2Fwc1w+</text>
+        <text>tree_a</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmVkZ2VzW3YxXS5hZGQodjIpCg==</text>
+        <text encoding="base64">ICAgIHRyZWVfYi5sZWZ0LmxlZnQgPSBUcmVlTm9kZSg0KQogICAgdHJlZV9iLmxlZnQucmlnaHQgPSBUcmVlTm9kZSg1KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmLCB4KToKICAgICAgICBzZWxmLnZhbCA9IHgKICAgICAgICBzZWxmLmxlZnQgPSBOb25lCiAgICAgICAgc2VsZi5yaWdodCA9IE5vbmUK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxzZToK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBfX3JlcAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRpbnVlCg==</text>
+        <text encoding="base64">ICAgIAogICAgdHJlZV9iLnJpZ2h0LmxlZnQgPSBUcmVlTm9kZSgzKQogICAgdHJlZV9iLnJpZ2h0LnJpZ2h0ID0gTm9uZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgaW5kZXhfZmlyc3Rfc29ydGVkX3plcm8gaXMgTm9uZToK</text>
+        <text encoding="base64">ICAgIHRyZWVfYi5sZWZ0LmxlZnQgPSBUcmVlTm9kZSg0KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIGluZGV4X3NlYXJjaF9mb3JfemVybyBpbiByYW5nZShpbmRleF91bnNvcnRlZCk6CiAgICAgICAgICAgICAgICBpZiBudW1zW2luZGV4X3NlYXJjaF9mb3JfemVyb10gPT0gMDoKICAgICAgICAgICAgICAgICAgICBudW1zW2luZGV4X3NlYXJjaF9mb3JfemVyb10gPSBudW0KICAgICAgICAgICAgICAgICAgICBudW1zW2luZGV4X3Vuc29ydGVkXSA9IDAKCiAgICAgICAgICAgICAgICAgICAgYnJlYWsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgbm9kZV8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgc3RhY2tbLTFdCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkb19zd2Fwc1w+</last-search>
+      <last-search>tree_a</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkb19zd2Fwc1w+</last-pattern>
+      <last-pattern>tree_a</last-pattern>
       <last-replace>tree_b</last-replace>
-      <last-substitute>root\.right</last-substitute>
+      <last-substitute>tree_a</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>buy</entry>
         <entry encoding="base64">XDxub2RlX21lcmdlZFw+</entry>
         <entry encoding="base64">XDxwb3Nfb2Zfb25lXD4=</entry>
         <entry encoding="base64">XDxoYWxmXD4=</entry>
@@ -357,6 +363,7 @@
         <entry encoding="base64">XDx2aXNpdGVkX3ZlcnRleGVzXD4=</entry>
         <entry>:</entry>
         <entry encoding="base64">XDxkb19zd2Fwc1w+</entry>
+        <entry>tree_a</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5yb290LmxlZnQvdHJlZV9h</entry>
@@ -365,6 +372,7 @@
         <entry>W</entry>
         <entry>we</entry>
         <entry>qw</entry>
+        <entry encoding="base64">JzwsJz5zL3RyZWVfYS90cmVlX2IvZw==</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
