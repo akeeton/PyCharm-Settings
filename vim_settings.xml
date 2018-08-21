@@ -30,12 +30,12 @@
         <mark key="^" line="60" column="38" />
         <mark key="." line="62" column="39" />
       </file>
-      <file name="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0283-move-zeroes.py" timestamp="1534876872983">
+      <file name="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0283-move-zeroes.py" timestamp="1534878382704">
         <mark key="'" line="19" column="14" />
-        <mark key="[" line="39" column="44" />
-        <mark key="]" line="40" column="19" />
-        <mark key="." line="40" column="19" />
-        <mark key="^" line="40" column="19" />
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
+        <mark key="^" line="39" column="23" />
       </file>
       <file name="/Python Console" timestamp="1534876834924">
         <mark key="[" line="0" column="0" />
@@ -287,7 +287,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>index_unsorted</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkb19zd2Fwc1w+</text>
@@ -299,28 +299,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRpbnVlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgaW5kZXhfdW5zb3J0ZWQgPT0gMDoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgIGluIDoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgaW5kZXhfbGFzdF9zb3J0ZWQgaW4gcmFuZ2UobGVuKG51bXMpKToK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpbmRleF9sYXN0X3NvcnRlZCA9IDAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
