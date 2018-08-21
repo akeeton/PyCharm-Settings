@@ -30,14 +30,14 @@
         <mark key="^" line="60" column="38" />
         <mark key="." line="62" column="39" />
       </file>
-      <file name="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0283-move-zeroes.py" timestamp="1534878382704">
+      <file name="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0283-move-zeroes.py" timestamp="1534880147804">
         <mark key="'" line="19" column="14" />
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
-        <mark key="^" line="39" column="23" />
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
+        <mark key="^" line="44" column="11" />
       </file>
-      <file name="/Python Console" timestamp="1534876834924">
+      <file name="/Python Console" timestamp="1534880114734">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1534804607482">
@@ -95,7 +95,7 @@
         <mark key="^" line="42" column="0" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1534876874531">
+      <file name="/Dummy.txt" timestamp="1534880149106">
         <mark key="e" line="0" column="19" />
         <mark key="'" line="0" column="20" />
         <mark key="[" line="0" column="0" />
@@ -284,10 +284,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>index_first_sorted_zero</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkb19zd2Fwc1w+</text>
@@ -296,19 +296,19 @@
         <text encoding="base64">ICAgICAgICBzZWxmLmVkZ2VzW3YxXS5hZGQodjIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRpbnVlCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgaW5kZXhfdW5zb3J0ZWQgPT0gMDoK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZWxzZToK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRpbnVlCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgaW5kZXhfZmlyc3Rfc29ydGVkX3plcm8gaXMgTm9uZToK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -317,10 +317,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIGluZGV4X3NlYXJjaF9mb3JfemVybyBpbiByYW5nZShpbmRleF91bnNvcnRlZCk6CiAgICAgICAgICAgICAgICBpZiBudW1zW2luZGV4X3NlYXJjaF9mb3JfemVyb10gPT0gMDoKICAgICAgICAgICAgICAgICAgICBudW1zW2luZGV4X3NlYXJjaF9mb3JfemVyb10gPSBudW0KICAgICAgICAgICAgICAgICAgICBudW1zW2luZGV4X3Vuc29ydGVkXSA9IDAKCiAgICAgICAgICAgICAgICAgICAgYnJlYWsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
