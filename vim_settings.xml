@@ -109,11 +109,12 @@
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
       </file>
-      <file name="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0238-product-of-array-except-self.py" timestamp="1535055273407">
-        <mark key="[" line="24" column="32" />
-        <mark key="]" line="24" column="32" />
-        <mark key="." line="24" column="32" />
-        <mark key="^" line="24" column="32" />
+      <file name="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0238-product-of-array-except-self.py" timestamp="1535057206471">
+        <mark key="'" line="32" column="7" />
+        <mark key="[" line="29" column="45" />
+        <mark key="]" line="29" column="47" />
+        <mark key="." line="29" column="47" />
+        <mark key="^" line="29" column="47" />
       </file>
       <file name="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0448-find-all-numbers-disappeared-in-an-array.py" timestamp="1535054487472">
         <mark key="[" line="36" column="11" />
@@ -200,7 +201,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="16" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0121-best-time-to-buy-and-sell-stock.py" />
       <jump line="28" column="30" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0121-best-time-to-buy-and-sell-stock.py" />
       <jump line="43" column="56" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0121-best-time-to-buy-and-sell-stock.py" />
       <jump line="53" column="80844" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0121-best-time-to-buy-and-sell-stock.py" />
@@ -300,63 +300,63 @@
       <jump line="12" column="11" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0094-binary-tree-inorder-traversal.py" />
       <jump line="17" column="0" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0094-binary-tree-inorder-traversal.py" />
       <jump line="89" column="3" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0094-binary-tree-inorder-traversal.py" />
+      <jump line="32" column="7" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0238-product-of-array-except-self.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+      <register name="&quot;" type="4">
+        <text>Dappend()</text>
       </register>
       <register name="-" type="4">
-        <text>product</text>
+        <text>Dappend()</text>
       </register>
       <register name="/" type="4">
-        <text>tree_a</text>
+        <text>left</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHRyZWVfYi5sZWZ0LmxlZnQgPSBUcmVlTm9kZSg0KQogICAgdHJlZV9iLmxlZnQucmlnaHQgPSBUcmVlTm9kZSg1KQo=</text>
+        <text encoding="base64">ICAgICAgICBwcm9kdWN0c190b190aGVfbGVmdCA9IFsxXSAqIChsZW4obnVtcykgLSAxKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRpbnVlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIGogaW4gbGVuKG51bXMpOgo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBmb3IgaiBpbiByZXZlcnNlZChyYW5nZShsZW4obnVtcykpKToKICAgICAgICAgICAgcHJvZHVjdF90b190aGVfcmlnaHQgPSBwcm9kdWN0c190b190aGVfbGVmdFtpIC0gMV0gKiBudW1zW2kgLSAxXQogICAgICAgICAgICBwcm9kdWN0c190b190aGVfcmlnaHQuYXBwZW5kKHByb2R1Y3RfdG9fdGhlX2xlZnQpCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBwcm9kdWN0c190b190aGVfcmlnaHQgPQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIGogaW4gbGVuKG51bXMpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJvZHVjdHNfdG9fdGhlX2xlZnQgPSBbMV0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgaSBpbiByYW5nZSgxLCBsZW4obnVtcykpOgo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJvZHVjdCA9IDEKICAgICAgICAgICAgZm9yIGosIG51bSBpbiBlbnVtZXJhdGUobnVtcyk6CiAgICAgICAgICAgICAgICBpZiBpID09IGo6CiAgICAgICAgICAgICAgICAgICAgY29udGludWUKCiAgICAgICAgICAgICAgICBwcm9kdWN0ICo9IG51bQoKICAgICAgICAgICAgcHJvZHVjdHMuYXBwZW5kKHByb2R1Y3QpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>tree_a</last-search>
+      <last-search>left</last-search>
       <last-offset />
-      <last-pattern>tree_a</last-pattern>
-      <last-replace>tree_b</last-replace>
-      <last-substitute>tree_a</last-substitute>
+      <last-pattern>left</last-pattern>
+      <last-replace>right</last-replace>
+      <last-substitute>left</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxub2RlX21lcmdlZFw+</entry>
         <entry encoding="base64">XDxwb3Nfb2Zfb25lXD4=</entry>
         <entry encoding="base64">XDxoYWxmXD4=</entry>
         <entry encoding="base64">XDxwZW9wbGVfc29ydGVkXD4=</entry>
@@ -376,6 +376,7 @@
         <entry>:</entry>
         <entry encoding="base64">XDxkb19zd2Fwc1w+</entry>
         <entry>tree_a</entry>
+        <entry>left</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5yb290LmxlZnQvdHJlZV9h</entry>
@@ -385,6 +386,7 @@
         <entry>we</entry>
         <entry>qw</entry>
         <entry encoding="base64">JzwsJz5zL3RyZWVfYS90cmVlX2IvZw==</entry>
+        <entry encoding="base64">JzwsJz5zL2xlZnQvcmlnaHQ=</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
