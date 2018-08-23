@@ -37,7 +37,7 @@
         <mark key="." line="43" column="0" />
         <mark key="^" line="44" column="11" />
       </file>
-      <file name="/Python Console" timestamp="1535058258650">
+      <file name="/Python Console" timestamp="1535061145859">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1535057634790">
@@ -76,6 +76,13 @@
         <mark key="." line="28" column="55" />
         <mark key="^" line="28" column="55" />
       </file>
+      <file name="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0347-top-k-frequent-elements.py" timestamp="1535061174866">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="29" column="44" />
+        <mark key="]" line="31" column="42" />
+        <mark key="." line="31" column="42" />
+        <mark key="^" line="31" column="42" />
+      </file>
       <file name="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/weekly-contest-093-0868-binary-gap.py" timestamp="1531619045774">
         <mark key="[" line="8" column="28" />
         <mark key="]" line="8" column="31" />
@@ -102,19 +109,19 @@
         <mark key="^" line="42" column="0" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1535058050419">
+      <file name="/Dummy.txt" timestamp="1535061261533">
         <mark key="e" line="0" column="19" />
         <mark key="'" line="0" column="20" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
       </file>
-      <file name="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0238-product-of-array-except-self.py" timestamp="1535059158942">
-        <mark key="'" line="27" column="45" />
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-        <mark key="^" line="34" column="34" />
+      <file name="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0238-product-of-array-except-self.py" timestamp="1535060613699">
+        <mark key="'" line="35" column="25" />
+        <mark key="[" line="37" column="15" />
+        <mark key="]" line="37" column="15" />
+        <mark key="." line="37" column="28" />
+        <mark key="^" line="22" column="21" />
       </file>
       <file name="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0448-find-all-numbers-disappeared-in-an-array.py" timestamp="1535054487472">
         <mark key="[" line="36" column="11" />
@@ -149,7 +156,7 @@
         <mark key="." line="62" column="19" />
         <mark key="^" line="33" column="65" />
       </file>
-      <file name="/" timestamp="1534804110347">
+      <file name="/" timestamp="1535060511988">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0003-longest-substring-without-repeating-characters.py" timestamp="1531073951223">
@@ -201,14 +208,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="8" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0617-merge-two-binary-trees.py" />
-      <jump line="22" column="8" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0617-merge-two-binary-trees.py" />
-      <jump line="25" column="12" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0617-merge-two-binary-trees.py" />
-      <jump line="13" column="7" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0226-invert-binary-tree.py" />
-      <jump line="7" column="23" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/weekly-contest-093-0868-binary-gap.py" />
-      <jump line="12" column="30" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/weekly-contest-093-0868-binary-gap.py" />
-      <jump line="13" column="31" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/weekly-contest-093-0868-binary-gap.py" />
-      <jump line="14" column="32" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/weekly-contest-093-0868-binary-gap.py" />
       <jump line="11" column="12" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0338-counting-bits.py" />
       <jump line="13" column="15" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0338-counting-bits.py" />
       <jump line="18" column="49" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0338-counting-bits.py" />
@@ -296,60 +295,68 @@
       <jump line="12" column="11" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0094-binary-tree-inorder-traversal.py" />
       <jump line="17" column="0" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0094-binary-tree-inorder-traversal.py" />
       <jump line="89" column="3" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0094-binary-tree-inorder-traversal.py" />
-      <jump line="32" column="7" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0238-product-of-array-except-self.py" />
       <jump line="33" column="12" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0238-product-of-array-except-self.py" />
-      <jump line="25" column="15" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0238-product-of-array-except-self.py" />
-      <jump line="26" column="28" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0238-product-of-array-except-self.py" />
       <jump line="27" column="45" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0238-product-of-array-except-self.py" />
+      <jump line="36" column="24" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0238-product-of-array-except-self.py" />
+      <jump line="37" column="16" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0238-product-of-array-except-self.py" />
+      <jump line="32" column="16" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0238-product-of-array-except-self.py" />
+      <jump line="31" column="35" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0238-product-of-array-except-self.py" />
+      <jump line="22" column="21" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0238-product-of-array-except-self.py" />
+      <jump line="25" column="20" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0238-product-of-array-except-self.py" />
+      <jump line="26" column="54" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0238-product-of-array-except-self.py" />
+      <jump line="30" column="55" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0238-product-of-array-except-self.py" />
+      <jump line="35" column="25" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0238-product-of-array-except-self.py" />
+      <jump line="15" column="92" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0347-top-k-frequent-elements.py" />
+      <jump line="2" column="0" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0347-top-k-frequent-elements.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9kdWN0c190b190aGVfbGVmdCA9IFtOb25lXSAqIGxlbihudW1zKQogICAgICAgIHByb2R1Y3RzX3RvX3RoZV9yaWdodCA9IFtOb25lXSAqIGxlbihudW1zKQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gQ291bnRlcihudW1zKS5tb3N0X2NvbW1vbihrKS4K</text>
       </register>
       <register name="-" type="4">
-        <text>products_to_the_right</text>
+        <text>products</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpXD4=</text>
+        <text encoding="base64">XDxwcm9kdWN0c1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJvZHVjdHNfdG9fdGhlX2xlZnRbaV0gPSBwcm9kdWN0c190b190aGVfbGVmdFtpIC0gMV0gKiBudW1zW2kgLSAxXQo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgbG9vcCBpbiByYW5nZSgxLCBsZW4obnVtcykpOgogICAgICAgICAgICBpZiBsb29wID09IDA6CiAgICAgICAgICAgICAgICBjb250aW51ZQoKICAgICAgICAgICAgaW5kZXhfbGVmdCA9IGxvb3AKICAgICAgICAgICAgaW5kZXhfcmlnaHQgPSBsZW4obnVtcykgLSAxIC0gbG9vcAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9kdWN0c190b190aGVfbGVmdCA9IFtOb25lXSAqIGxlbihudW1zKQogICAgICAgIHByb2R1Y3RzX3RvX3RoZV9yaWdodCA9IFtOb25lXSAqIGxlbihudW1zKQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gQ291bnRlcihudW1zKS5tb3N0X2NvbW1vbihrKS4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgbG9vcCA9PSAwOgogICAgICAgICAgICAgICAgY29udGludWUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByb2R1Y3RzX3RvX3RoZV9sZWZ0W2luZGV4X2xlZnRdID0gMQogICAgICAgICAgICAgICAgcHJvZHVjdHNfdG9fdGhlX3JpZ2h0W2luZGV4X3JpZ2h0XSA9IDEK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJvZHVjdF9yaWdodCAqPSBudW1zW2luZGV4X3JpZ2h0ICsgMV0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjIGZvciBpIGluIHJhbmdlKGxlbihudW1zKSk6CiAgICAgICAgIyAgICAgcHJvZHVjdHMuYXBwZW5kKHByb2R1Y3RzX3RvX3RoZV9sZWZ0W2ldICogcHJvZHVjdHNfdG9fdGhlX3JpZ2h0W2ldKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJvZHVjdHNbaW5kZXhfcmlnaHRdICo9IHByb2R1Y3RfcmlnaHQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJvZHVjdF9yaWdodF9uZXcgPSBwcm9kdWN0cwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9kdWN0cyA9IFtdCg==</text>
+        <text encoding="base64">ICAgICAgICBwcm9kdWN0X3JpZ2h0ID0gCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB3aG9fa25vd3MgPSAxCiAgICAgICAgZm9yIGxvb3AgaW4gcmFuZ2UobGVuKG51bXMpKToKICAgICAgICAgICAgaW5kZXhfcmlnaHQgPSBsZW4obnVtcykgLSAxIC0gbG9vcAoKICAgICAgICAgICAgaWYgbG9vcCA9PSAwOgogICAgICAgICAgICAgICAgd2hvX2tub3dzID0gbnVtc1tpbmRleF9yaWdodF0KICAgICAgICAgICAgICAgIGNvbnRpbnVlCgogICAgICAgICAgICBwcm9kdWN0X3JpZ2h0ID0gcHJvZHVjdHNbaW5kZXhfcmlnaHQgKyAxXSAqIG51bXNbaW5kZXhfcmlnaHQgKyAxXQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpXD4=</last-search>
+      <last-search encoding="base64">XDxwcm9kdWN0c1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxwcm9kdWN0c1w+</last-pattern>
       <last-replace>right</last-replace>
       <last-substitute>left</last-substitute>
       <last-dir>1</last-dir>
@@ -357,9 +364,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxoYWxmXD4=</entry>
-        <entry encoding="base64">XDxwZW9wbGVfc29ydGVkXD4=</entry>
-        <entry encoding="base64">XDxlbXB0eV9zcGFjZXNfc2Vlblw+</entry>
         <entry encoding="base64">XDxyZXR1cm5cPg==</entry>
         <entry>break</entry>
         <entry encoding="base64">XDxudW1fcGFsaW5kcm9tZXNcPg==</entry>
@@ -377,6 +381,9 @@
         <entry>tree_a</entry>
         <entry>left</entry>
         <entry encoding="base64">XDxpXD4=</entry>
+        <entry encoding="base64">XDxwcm9kdWN0X3JpZ2h0X3JpZ2h0XD4=</entry>
+        <entry encoding="base64">XDxwcm9kdWN0X2xlZnRfbmV3XD4=</entry>
+        <entry encoding="base64">XDxwcm9kdWN0c1w+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5yb290LmxlZnQvdHJlZV9h</entry>
