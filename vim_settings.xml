@@ -109,11 +109,11 @@
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
       </file>
-      <file name="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0238-product-of-array-except-self.py" timestamp="1535058257612">
+      <file name="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0238-product-of-array-except-self.py" timestamp="1535059158942">
         <mark key="'" line="27" column="45" />
-        <mark key="[" line="34" column="34" />
-        <mark key="]" line="34" column="34" />
-        <mark key="." line="34" column="34" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
         <mark key="^" line="34" column="34" />
       </file>
       <file name="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0448-find-all-numbers-disappeared-in-an-array.py" timestamp="1535054487472">
@@ -304,7 +304,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcm9kdWN0c190b190aGVfbGVmdCA9IFtOb25lXSAqIGxlbihudW1zKQogICAgICAgIHByb2R1Y3RzX3RvX3RoZV9yaWdodCA9IFtOb25lXSAqIGxlbihudW1zKQo=</text>
       </register>
       <register name="-" type="4">
         <text>products_to_the_right</text>
@@ -316,31 +316,31 @@
         <text encoding="base64">ICAgICAgICAgICAgcHJvZHVjdHNfdG9fdGhlX2xlZnRbaV0gPSBwcm9kdWN0c190b190aGVfbGVmdFtpIC0gMV0gKiBudW1zW2kgLSAxXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcm9kdWN0c190b190aGVfbGVmdCA9IFtOb25lXSAqIGxlbihudW1zKQogICAgICAgIHByb2R1Y3RzX3RvX3RoZV9yaWdodCA9IFtOb25lXSAqIGxlbihudW1zKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgbG9vcCA9PSAwOgogICAgICAgICAgICAgICAgY29udGludWUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByb2R1Y3RzX3RvX3RoZV9sZWZ0W2luZGV4X2xlZnRdID0gMQogICAgICAgICAgICAgICAgcHJvZHVjdHNfdG9fdGhlX3JpZ2h0W2luZGV4X3JpZ2h0XSA9IDEK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgbG9vcCA9PSAwOgogICAgICAgICAgICAgICAgY29udGludWUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByb2R1Y3RzX3RvX3RoZV9sZWZ0W2luZGV4X2xlZnRdID0gMQogICAgICAgICAgICAgICAgcHJvZHVjdHNfdG9fdGhlX3JpZ2h0W2luZGV4X3JpZ2h0XSA9IDEK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjIGZvciBpIGluIHJhbmdlKGxlbihudW1zKSk6CiAgICAgICAgIyAgICAgcHJvZHVjdHMuYXBwZW5kKHByb2R1Y3RzX3RvX3RoZV9sZWZ0W2ldICogcHJvZHVjdHNfdG9fdGhlX3JpZ2h0W2ldKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIGZvciBpIGluIHJhbmdlKGxlbihudW1zKSk6CiAgICAgICAgIyAgICAgcHJvZHVjdHMuYXBwZW5kKHByb2R1Y3RzX3RvX3RoZV9sZWZ0W2ldICogcHJvZHVjdHNfdG9fdGhlX3JpZ2h0W2ldKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9kdWN0cyA9IFtdCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBwcm9kdWN0cyA9IFtdCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
