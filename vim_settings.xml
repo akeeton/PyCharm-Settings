@@ -102,18 +102,24 @@
         <mark key="^" line="42" column="0" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1534891079630">
+      <file name="/Dummy.txt" timestamp="1535055275556">
         <mark key="e" line="0" column="19" />
         <mark key="'" line="0" column="20" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
       </file>
-      <file name="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0448-find-all-numbers-disappeared-in-an-array.py" timestamp="1535054255977">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="30" column="9" />
-        <mark key="^" line="30" column="9" />
-        <mark key="." line="30" column="9" />
+      <file name="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0238-product-of-array-except-self.py" timestamp="1535055273407">
+        <mark key="[" line="24" column="32" />
+        <mark key="]" line="24" column="32" />
+        <mark key="." line="24" column="32" />
+        <mark key="^" line="24" column="32" />
+      </file>
+      <file name="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0448-find-all-numbers-disappeared-in-an-array.py" timestamp="1535054487472">
+        <mark key="[" line="36" column="11" />
+        <mark key="]" line="39" column="60" />
+        <mark key="^" line="39" column="60" />
+        <mark key="." line="39" column="60" />
       </file>
       <file name="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0001-two-sum.py" timestamp="1530993756269">
         <mark key="[" line="31" column="0" />
@@ -296,11 +302,11 @@
       <jump line="89" column="3" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0094-binary-tree-inorder-traversal.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>&quot;&quot;.form</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;&quot;.form</text>
+        <text>product</text>
       </register>
       <register name="/" type="4">
         <text>tree_a</text>
@@ -309,31 +315,31 @@
         <text encoding="base64">ICAgIHRyZWVfYi5sZWZ0LmxlZnQgPSBUcmVlTm9kZSg0KQogICAgdHJlZV9iLmxlZnQucmlnaHQgPSBUcmVlTm9kZSg1KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmLCB4KToKICAgICAgICBzZWxmLnZhbCA9IHgKICAgICAgICBzZWxmLmxlZnQgPSBOb25lCiAgICAgICAgc2VsZi5yaWdodCA9IE5vbmUK</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX3JlcAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIGogaW4gbGVuKG51bXMpOgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAogICAgdHJlZV9iLnJpZ2h0LmxlZnQgPSBUcmVlTm9kZSgzKQogICAgdHJlZV9iLnJpZ2h0LnJpZ2h0ID0gTm9uZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRyZWVfYi5sZWZ0LmxlZnQgPSBUcmVlTm9kZSg0KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIGogaW4gbGVuKG51bXMpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgbm9kZV8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgc3RhY2tbLTFdCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
