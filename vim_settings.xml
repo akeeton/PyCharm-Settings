@@ -37,10 +37,17 @@
         <mark key="." line="43" column="0" />
         <mark key="^" line="44" column="11" />
       </file>
-      <file name="/Python Console" timestamp="1535061145859">
+      <file name="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0022-generate-parentheses.py" timestamp="1535488828728">
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="20" column="11" />
+        <mark key="]" line="28" column="9" />
+        <mark key="^" line="28" column="9" />
+        <mark key="." line="28" column="9" />
+      </file>
+      <file name="/Python Console" timestamp="1535488511912">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1535057634790">
+      <file name="/fragment.py" timestamp="1535487349650">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0009-palindrome-number.py" timestamp="1531075432477">
@@ -76,12 +83,12 @@
         <mark key="." line="28" column="55" />
         <mark key="^" line="28" column="55" />
       </file>
-      <file name="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0347-top-k-frequent-elements.py" timestamp="1535061174866">
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="29" column="44" />
-        <mark key="]" line="31" column="42" />
-        <mark key="." line="31" column="42" />
-        <mark key="^" line="31" column="42" />
+      <file name="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0347-top-k-frequent-elements.py" timestamp="1535488792872">
+        <mark key="'" line="56" column="34" />
+        <mark key="[" line="47" column="17" />
+        <mark key="]" line="47" column="17" />
+        <mark key="." line="47" column="17" />
+        <mark key="^" line="47" column="17" />
       </file>
       <file name="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/weekly-contest-093-0868-binary-gap.py" timestamp="1531619045774">
         <mark key="[" line="8" column="28" />
@@ -109,12 +116,12 @@
         <mark key="^" line="42" column="0" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1535061261533">
+      <file name="/Dummy.txt" timestamp="1535488762114">
         <mark key="e" line="0" column="19" />
         <mark key="'" line="0" column="20" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="5" />
-        <mark key="." line="0" column="5" />
+        <mark key="[" line="0" column="58" />
+        <mark key="]" line="0" column="58" />
+        <mark key="." line="0" column="58" />
       </file>
       <file name="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0238-product-of-array-except-self.py" timestamp="1535060613699">
         <mark key="'" line="35" column="25" />
@@ -208,8 +215,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="12" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0338-counting-bits.py" />
-      <jump line="13" column="15" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0338-counting-bits.py" />
       <jump line="18" column="49" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0338-counting-bits.py" />
       <jump line="45" column="47" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0406-queue-reconstruction-by-height.py" />
       <jump line="49" column="28" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0406-queue-reconstruction-by-height.py" />
@@ -308,55 +313,57 @@
       <jump line="35" column="25" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0238-product-of-array-except-self.py" />
       <jump line="15" column="92" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0347-top-k-frequent-elements.py" />
       <jump line="2" column="0" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0347-top-k-frequent-elements.py" />
+      <jump line="48" column="34" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0347-top-k-frequent-elements.py" />
+      <jump line="13" column="0" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0022-generate-parentheses.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gQ291bnRlcihudW1zKS5tb3N0X2NvbW1vbihrKS4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>products</text>
+        <text>71.64</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwcm9kdWN0c1w+</text>
+        <text encoding="base64">XDwxXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgbG9vcCBpbiByYW5nZSgxLCBsZW4obnVtcykpOgogICAgICAgICAgICBpZiBsb29wID09IDA6CiAgICAgICAgICAgICAgICBjb250aW51ZQoKICAgICAgICAgICAgaW5kZXhfbGVmdCA9IGxvb3AKICAgICAgICAgICAgaW5kZXhfcmlnaHQgPSBsZW4obnVtcykgLSAxIC0gbG9vcAo=</text>
+        <text encoding="base64">ICAgIHByaW50KHNvbC50b3BLRnJlcXVlbnQoWzEsIDEsIDEsIDIsIDIsIDNdLCAyKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gQ291bnRlcihudW1zKS5tb3N0X2NvbW1vbihrKS4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Mgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJvZHVjdF9yaWdodCAqPSBudW1zW2luZGV4X3JpZ2h0ICsgMV0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJvZHVjdHNbaW5kZXhfcmlnaHRdICo9IHByb2R1Y3RfcmlnaHQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJvZHVjdF9yaWdodF9uZXcgPSBwcm9kdWN0cwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9kdWN0X3JpZ2h0ID0gCg==</text>
+        <text encoding="base64">ICAgICAgICBjb3VudGVyLmtleXMoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB3aG9fa25vd3MgPSAxCiAgICAgICAgZm9yIGxvb3AgaW4gcmFuZ2UobGVuKG51bXMpKToKICAgICAgICAgICAgaW5kZXhfcmlnaHQgPSBsZW4obnVtcykgLSAxIC0gbG9vcAoKICAgICAgICAgICAgaWYgbG9vcCA9PSAwOgogICAgICAgICAgICAgICAgd2hvX2tub3dzID0gbnVtc1tpbmRleF9yaWdodF0KICAgICAgICAgICAgICAgIGNvbnRpbnVlCgogICAgICAgICAgICBwcm9kdWN0X3JpZ2h0ID0gcHJvZHVjdHNbaW5kZXhfcmlnaHQgKyAxXSAqIG51bXNbaW5kZXhfcmlnaHQgKyAxXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwcm9kdWN0c1w+</last-search>
+      <last-search encoding="base64">XDwxXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwcm9kdWN0c1w+</last-pattern>
+      <last-pattern encoding="base64">XDwxXD4=</last-pattern>
       <last-replace>right</last-replace>
       <last-substitute>left</last-substitute>
       <last-dir>1</last-dir>
@@ -364,7 +371,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZXR1cm5cPg==</entry>
         <entry>break</entry>
         <entry encoding="base64">XDxudW1fcGFsaW5kcm9tZXNcPg==</entry>
         <entry encoding="base64">XDxwYWxpbmRyb21lc1w+</entry>
@@ -384,6 +390,7 @@
         <entry encoding="base64">XDxwcm9kdWN0X3JpZ2h0X3JpZ2h0XD4=</entry>
         <entry encoding="base64">XDxwcm9kdWN0X2xlZnRfbmV3XD4=</entry>
         <entry encoding="base64">XDxwcm9kdWN0c1w+</entry>
+        <entry encoding="base64">XDwxXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5yb290LmxlZnQvdHJlZV9h</entry>
@@ -436,6 +443,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
