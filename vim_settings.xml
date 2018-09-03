@@ -47,7 +47,7 @@
         <mark key="^" line="28" column="9" />
         <mark key="." line="28" column="9" />
       </file>
-      <file name="/Python Console" timestamp="1535488511912">
+      <file name="/Python Console" timestamp="1536012908789">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1535487349650">
@@ -139,6 +139,13 @@
         <mark key="^" line="39" column="60" />
         <mark key="." line="39" column="60" />
       </file>
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/leetcode-python/0022-generate-parentheses.py" timestamp="1536013027586">
+        <mark key="'" line="22" column="0" />
+        <mark key="[" line="18" column="20" />
+        <mark key="]" line="18" column="19" />
+        <mark key="^" line="18" column="19" />
+        <mark key="." line="18" column="19" />
+      </file>
       <file name="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0001-two-sum.py" timestamp="1530993756269">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="0" />
@@ -176,12 +183,6 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0101-symmetric-tree.py" timestamp="1531508925438">
-        <mark key="'" line="29" column="12" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="11" column="62" />
-        <mark key="." line="12" column="0" />
-      </file>
       <file name="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0338-counting-bits.py" timestamp="1534547421271">
         <mark key="'" line="15" column="49" />
         <mark key="[" line="8" column="0" />
@@ -218,7 +219,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="49" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0338-counting-bits.py" />
       <jump line="45" column="47" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0406-queue-reconstruction-by-height.py" />
       <jump line="49" column="28" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0406-queue-reconstruction-by-height.py" />
       <jump line="47" column="60" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0406-queue-reconstruction-by-height.py" />
@@ -318,6 +318,7 @@
       <jump line="2" column="0" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0347-top-k-frequent-elements.py" />
       <jump line="48" column="34" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0347-top-k-frequent-elements.py" />
       <jump line="13" column="0" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0022-generate-parentheses.py" />
+      <jump line="22" column="0" filename="$USER_HOME$/OneDrive/Documents/GitHub/leetcode-python/0022-generate-parentheses.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
