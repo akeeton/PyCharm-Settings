@@ -139,12 +139,12 @@
         <mark key="^" line="39" column="60" />
         <mark key="." line="39" column="60" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/leetcode-python/0022-generate-parentheses.py" timestamp="1536016244691">
-        <mark key="'" line="25" column="0" />
-        <mark key="[" line="20" column="11" />
-        <mark key="]" line="24" column="14" />
-        <mark key="^" line="24" column="14" />
-        <mark key="." line="24" column="14" />
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/leetcode-python/0022-generate-parentheses.py" timestamp="1536016708840">
+        <mark key="'" line="33" column="33" />
+        <mark key="[" line="38" column="58" />
+        <mark key="]" line="38" column="72" />
+        <mark key="." line="38" column="72" />
+        <mark key="^" line="38" column="72" />
       </file>
       <file name="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0001-two-sum.py" timestamp="1530993756269">
         <mark key="[" line="31" column="0" />
@@ -219,9 +219,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="47" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0406-queue-reconstruction-by-height.py" />
-      <jump line="49" column="28" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0406-queue-reconstruction-by-height.py" />
-      <jump line="47" column="60" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0406-queue-reconstruction-by-height.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0406-queue-reconstruction-by-height.py" />
       <jump line="44" column="12" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0406-queue-reconstruction-by-height.py" />
       <jump line="50" column="47" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0406-queue-reconstruction-by-height.py" />
@@ -319,55 +316,58 @@
       <jump line="48" column="34" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0347-top-k-frequent-elements.py" />
       <jump line="13" column="0" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0022-generate-parentheses.py" />
       <jump line="22" column="0" filename="$USER_HOME$/OneDrive/Documents/GitHub/leetcode-python/0022-generate-parentheses.py" />
+      <jump line="29" column="12" filename="$USER_HOME$/OneDrive/Documents/GitHub/leetcode-python/0022-generate-parentheses.py" />
+      <jump line="31" column="34" filename="$USER_HOME$/OneDrive/Documents/GitHub/leetcode-python/0022-generate-parentheses.py" />
+      <jump line="32" column="33" filename="$USER_HOME$/OneDrive/Documents/GitHub/leetcode-python/0022-generate-parentheses.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>{'parens': ['']})</text>
       </register>
       <register name="-" type="4">
-        <text>71.64</text>
+        <text>{'parens': ['']})</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDwxXD4=</text>
+        <text encoding="base64">XDxwYXJ0aWFsX3NvbHV0aW9uXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaW50KHNvbC50b3BLRnJlcXVlbnQoWzEsIDEsIDEsIDIsIDIsIDNdLCAyKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhcmVuc193aXRoX3JpZ2h0Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFzc2VydChwWydyaWdodCddID4gMCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWxpZiAK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Mgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICByZXR1cm4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDwxXD4=</last-search>
+      <last-search encoding="base64">XDxwYXJ0aWFsX3NvbHV0aW9uXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDwxXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxwYXJ0aWFsX3NvbHV0aW9uXD4=</last-pattern>
       <last-replace>right</last-replace>
       <last-substitute>left</last-substitute>
       <last-dir>1</last-dir>
@@ -375,7 +375,6 @@
     </search>
     <history>
       <history-search>
-        <entry>break</entry>
         <entry encoding="base64">XDxudW1fcGFsaW5kcm9tZXNcPg==</entry>
         <entry encoding="base64">XDxwYWxpbmRyb21lc1w+</entry>
         <entry encoding="base64">XDxyb3dcPg==</entry>
@@ -395,6 +394,7 @@
         <entry encoding="base64">XDxwcm9kdWN0X2xlZnRfbmV3XD4=</entry>
         <entry encoding="base64">XDxwcm9kdWN0c1w+</entry>
         <entry encoding="base64">XDwxXD4=</entry>
+        <entry encoding="base64">XDxwYXJ0aWFsX3NvbHV0aW9uXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5yb290LmxlZnQvdHJlZV9h</entry>
