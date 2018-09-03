@@ -47,7 +47,7 @@
         <mark key="^" line="28" column="9" />
         <mark key="." line="28" column="9" />
       </file>
-      <file name="/Python Console" timestamp="1536012908789">
+      <file name="/Python Console" timestamp="1536017762484">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1535487349650">
@@ -119,10 +119,10 @@
         <mark key="^" line="42" column="0" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1535488762114">
+      <file name="/Dummy.txt" timestamp="1536017820610">
         <mark key="e" line="0" column="19" />
         <mark key="'" line="0" column="20" />
-        <mark key="[" line="0" column="58" />
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="58" />
         <mark key="." line="0" column="58" />
       </file>
@@ -139,12 +139,12 @@
         <mark key="^" line="39" column="60" />
         <mark key="." line="39" column="60" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/GitHub/leetcode-python/0022-generate-parentheses.py" timestamp="1536016708840">
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/leetcode-python/0022-generate-parentheses.py" timestamp="1536017952007">
         <mark key="'" line="33" column="33" />
-        <mark key="[" line="38" column="58" />
-        <mark key="]" line="38" column="72" />
-        <mark key="." line="38" column="72" />
-        <mark key="^" line="38" column="72" />
+        <mark key="[" line="33" column="53" />
+        <mark key="]" line="33" column="53" />
+        <mark key="." line="33" column="53" />
+        <mark key="^" line="33" column="53" />
       </file>
       <file name="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0001-two-sum.py" timestamp="1530993756269">
         <mark key="[" line="31" column="0" />
@@ -321,44 +321,44 @@
       <jump line="32" column="33" filename="$USER_HOME$/OneDrive/Documents/GitHub/leetcode-python/0022-generate-parentheses.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>{'parens': ['']})</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICIiLmpvaW4oKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>{'parens': ['']})</text>
+        <text>p)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYXJ0aWFsX3NvbHV0aW9uXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaW50KHNvbC50b3BLRnJlcXVlbnQoWzEsIDEsIDEsIDIsIDIsIDNdLCAyKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBfYWRkX3JpZ2h0ID0geydwYXJlbnMnOiBwYXJlbnNfYWRkX3JpZ2h0LCAnbGVmdCc6IHBbJ2xlZnQnXSwgJ3JpZ2h0JzogcFsncmlnaHQnXSAtIDF9CiAgICAgICAgICAgICAgICBzdGFjay5hcHBlbmQocF9hZGRfcmlnaHQpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICIiLmpvaW4oKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhcmVuc193aXRoX3JpZ2h0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNvbHV0aW9ucy5hcHBlbmQocCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFzc2VydChwWydyaWdodCddID4gMCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhcmVucwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxpZiAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhcmVuc193aXRoX3JpZ2h0Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFzc2VydChwWydyaWdodCddID4gMCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWxpZiAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICByZXR1cm4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
