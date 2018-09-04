@@ -19,6 +19,13 @@
       <file name="/start_script.py" timestamp="1536012452515">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/OneDrive/Documents/GitHub/leetcode-python/0045-permutations.py" timestamp="1536019426083">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="39" column="33" />
+        <mark key="]" line="42" column="11" />
+        <mark key="." line="42" column="11" />
+        <mark key="^" line="42" column="11" />
+      </file>
       <file name="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0021-merge-two-sorted-lists.py" timestamp="1531094943551">
         <mark key="'" line="45" column="16" />
         <mark key="[" line="69" column="0" />
@@ -47,7 +54,7 @@
         <mark key="^" line="28" column="9" />
         <mark key="." line="28" column="9" />
       </file>
-      <file name="/Python Console" timestamp="1536017762484">
+      <file name="/Python Console" timestamp="1536018639030">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1535487349650">
@@ -119,7 +126,7 @@
         <mark key="^" line="42" column="0" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1536017820610">
+      <file name="/Dummy.txt" timestamp="1536018644462">
         <mark key="e" line="0" column="19" />
         <mark key="'" line="0" column="20" />
         <mark key="[" line="0" column="0" />
@@ -219,8 +226,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0406-queue-reconstruction-by-height.py" />
-      <jump line="44" column="12" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0406-queue-reconstruction-by-height.py" />
       <jump line="50" column="47" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0406-queue-reconstruction-by-height.py" />
       <jump line="58" column="19" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0647-palindromic-substrings.py" />
       <jump line="57" column="14" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0647-palindromic-substrings.py" />
@@ -319,46 +324,48 @@
       <jump line="29" column="12" filename="$USER_HOME$/OneDrive/Documents/GitHub/leetcode-python/0022-generate-parentheses.py" />
       <jump line="31" column="34" filename="$USER_HOME$/OneDrive/Documents/GitHub/leetcode-python/0022-generate-parentheses.py" />
       <jump line="32" column="33" filename="$USER_HOME$/OneDrive/Documents/GitHub/leetcode-python/0022-generate-parentheses.py" />
+      <jump line="13" column="0" filename="$USER_HOME$/OneDrive/Documents/GitHub/leetcode-python/0045-permutations.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/OneDrive/Documents/GitHub/leetcode-python/0045-permutations.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICIiLmpvaW4oKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>p)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYXJ0aWFsX3NvbHV0aW9uXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBfYWRkX3JpZ2h0ID0geydwYXJlbnMnOiBwYXJlbnNfYWRkX3JpZ2h0LCAnbGVmdCc6IHBbJ2xlZnQnXSwgJ3JpZ2h0JzogcFsncmlnaHQnXSAtIDF9CiAgICAgICAgICAgICAgICBzdGFjay5hcHBlbmQocF9hZGRfcmlnaHQpCg==</text>
+        <text encoding="base64">ICAgIGRlZiBwZXJtdXRlKHNlbGYsIG51bXMpOgogICAgICAgICIiIgogICAgICAgIDp0eXBlIG51bXM6IExpc3RbaW50XQogICAgICAgIDpydHlwZTogTGlzdFtMaXN0W2ludF1dCiAgICAgICAgIiIiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICIiLmpvaW4oKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNvbHV0aW9ucy5hcHBlbmQocCkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhcmVucwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbnVtc19zZXRfY29weSA9IG51bXNfc2V0LmNvcHkoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBudW1zX3NldCA9IHNldChudW1zKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhcmVuc193aXRoX3JpZ2h0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFzc2VydChwWydyaWdodCddID4gMCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbnVtc19zZXQucmVtCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxpZiAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbnVtcy4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBlbnVtZXJhdGUK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
