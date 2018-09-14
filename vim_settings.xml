@@ -37,14 +37,14 @@
         <mark key="." line="43" column="0" />
         <mark key="^" line="44" column="11" />
       </file>
-      <file name="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0022-generate-parentheses.py" timestamp="1535488828728">
+      <file name="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0022-generate-parentheses.py" timestamp="1536945391781">
         <mark key="'" line="12" column="0" />
         <mark key="[" line="20" column="11" />
         <mark key="]" line="28" column="9" />
         <mark key="^" line="28" column="9" />
         <mark key="." line="28" column="9" />
       </file>
-      <file name="/Python Console" timestamp="1535488511912">
+      <file name="/Python Console" timestamp="1536945690569">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1535487349650">
@@ -90,6 +90,13 @@
         <mark key="." line="47" column="17" />
         <mark key="^" line="47" column="17" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1536945687907">
+        <mark key="'" line="14" column="8" />
+        <mark key="[" line="3" column="6" />
+        <mark key="]" line="3" column="6" />
+        <mark key="^" line="3" column="6" />
+        <mark key="." line="3" column="6" />
+      </file>
       <file name="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/weekly-contest-093-0868-binary-gap.py" timestamp="1531619045774">
         <mark key="[" line="8" column="28" />
         <mark key="]" line="8" column="31" />
@@ -116,10 +123,10 @@
         <mark key="^" line="42" column="0" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1535488762114">
+      <file name="/Dummy.txt" timestamp="1535488831580">
         <mark key="e" line="0" column="19" />
         <mark key="'" line="0" column="20" />
-        <mark key="[" line="0" column="58" />
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="58" />
         <mark key="." line="0" column="58" />
       </file>
@@ -215,7 +222,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="49" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0338-counting-bits.py" />
       <jump line="45" column="47" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0406-queue-reconstruction-by-height.py" />
       <jump line="49" column="28" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0406-queue-reconstruction-by-height.py" />
       <jump line="47" column="60" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0406-queue-reconstruction-by-height.py" />
@@ -315,13 +321,14 @@
       <jump line="2" column="0" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0347-top-k-frequent-elements.py" />
       <jump line="48" column="34" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0347-top-k-frequent-elements.py" />
       <jump line="13" column="0" filename="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/0022-generate-parentheses.py" />
+      <jump line="13" column="8" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZlcm5ldC5GZXJuZXQK</text>
       </register>
       <register name="-" type="4">
-        <text>71.64</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwxXD4=</text>
@@ -330,7 +337,7 @@
         <text encoding="base64">ICAgIHByaW50KHNvbC50b3BLRnJlcXVlbnQoWzEsIDEsIDEsIDIsIDIsIDNdLCAyKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZlcm5ldC5GZXJuZXQK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -339,22 +346,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Mgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Mgo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb3VudGVyLmtleXMoKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb3VudGVyLmtleXMoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
