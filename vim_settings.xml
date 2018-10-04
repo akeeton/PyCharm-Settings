@@ -49,7 +49,7 @@
         <mark key="^" line="28" column="9" />
         <mark key="." line="28" column="9" />
       </file>
-      <file name="/Python Console" timestamp="1538619629295">
+      <file name="/Python Console" timestamp="1538622321449">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1538615798228">
@@ -105,11 +105,11 @@
         <mark key="^" line="3" column="6" />
         <mark key="." line="3" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/GitLab/alpc1-codec/test/TestNumberCodec.py" timestamp="1538619641948">
-        <mark key="[" line="24" column="40" />
-        <mark key="]" line="24" column="43" />
-        <mark key="^" line="24" column="43" />
-        <mark key="." line="24" column="43" />
+      <file name="$USER_HOME$/Documents/GitLab/alpc1-codec/test/TestNumberCodec.py" timestamp="1538622334536">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="^" line="27" column="32" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/Google Drive/src/leetcode/python3/leetcode-python/weekly-contest-093-0868-binary-gap.py" timestamp="1531619045774">
         <mark key="[" line="8" column="28" />
@@ -137,7 +137,7 @@
         <mark key="^" line="42" column="0" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1538620221203">
+      <file name="/Dummy.txt" timestamp="1538623247491">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -197,6 +197,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitLab/alpc1-codec/README.md" timestamp="1538623223819">
+        <mark key="[" line="33" column="324" />
+        <mark key="]" line="33" column="324" />
+        <mark key="." line="33" column="324" />
+        <mark key="^" line="33" column="345" />
       </file>
       <file name="$USER_HOME$/Documents/GitLab/alpc1-codec/NumberCodec.py" timestamp="1538620200752">
         <mark key="'" line="60" column="6" />
@@ -343,44 +349,44 @@
       <jump line="60" column="6" filename="$USER_HOME$/Documents/GitLab/alpc1-codec/NumberCodec.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgcGFyc2VyLmRlc2NyaXB0aW9uCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Y29yZSA=</text>
       </register>
       <register name="-" type="4">
-        <text>add_help()</text>
+        <text encoding="base64">Y29yZSA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxrUmFuZ2VNaW5cPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgZm9yIGxpbmUgaW4gc3lzLnN0ZGluLnJlYWRsaW5lcygpOgo=</text>
+        <text encoding="base64">ICAgICAgICAgZGVjb2RlZCA9IGRlY29kZWQuc3BsaXQoJ1xyXG4nKVs6LTFdCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgcGFyc2VyLmRlc2NyaXB0aW9uCg==</text>
+        <text encoding="base64">ICAgICAgICAgIyBkZWNvZGVkID0gZGVjb2RlZC5zcGxpdCgnXHJcbicpWzotMV0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcGFyc2VyLmVycm9yKCJtdXN0IHN1cHBseSBlaXRoZXIgLWUvLS1lbmNvZGUgb3IgLWQvLS1kZWNvZGUgYXJndW1lbnQiKQo=</text>
+        <text encoding="base64">ICAgcGFyc2VyLmRlc2NyaXB0aW9uCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcGFyc2VyLmVycm9yKCJtdXN0IHN1cHBseSBlaXRoZXIgLWUvLS1lbmNvZGUgb3IgLWQvLS1kZWNvZGUgYXJndW1lbnQiKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgcGFyc2VyLmFkZF9hcmd1bWVudCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgcGFyc2VyLmFkZF9hcmd1bWVudCgpCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICAgICAgIGRlY29kZWQgPSBkZWNvZGVkQnl0ZXMuZGVjb2RlKCd1dGYtOCcpCiAgICAgICAgIGRlY29kZWQgPSBkZWNvZGVkLnNwbGl0KCdcclxuJykK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">CiAgICAgICAgIGRlY29kZWQgPSBkZWNvZGVkQnl0ZXMuZGVjb2RlKCd1dGYtOCcpCiAgICAgICAgIGRlY29kZWQgPSBkZWNvZGVkLnNwbGl0KCdcclxuJykK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgZGVjb2RlZCA9IGRlY29kZWQuZGVjCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
